@@ -1,0 +1,13 @@
+id: CS202106160 
+title: Single-cell RNA-seq for all cortical & hippocampal regions (10x)
+description: "Single-cell RNA-seq for all cortical & hippocampal regions (10x)"
+matrix_file_id: CellXGene_dataset:ece4094a-8f3d-430d-babe-467fb6fd5feb
+github_org: Cellular-Semantics
+repo: mouse_cortex_taxonomy
+author: https://orcid.org/0000-0002-9361-5607
+accession_id_prefix: CS202106160_
+citation: DOI:10.1016/j.cell.2021.04.021
+creators:
+  - https://orcid.org/0000-0002-3315-2794
+  - https://orcid.org/0000-0002-6012-3729
+#datasets_folder: /path/to/tdt_datasets
