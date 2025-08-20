@@ -1,0 +1,4 @@
+name	description	rank	annotation_method	automated_annotation_algorithm_name	automated_annotation_algorithm_version	automated_annotation_algorithm_repo_url	automated_annotation_reference_location
+class_label	The coarse level of cell type definition in the mouse cortex taxonomy.	2					
+subclass_label	The second finest level of cell type definition in the mouse cortex taxonomy.	1					
+cluster_label	The finest level of cell type definition in the mouse cortex taxonomy.	0					

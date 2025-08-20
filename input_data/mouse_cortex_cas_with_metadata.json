@@ -10,7 +10,7 @@
       "cell_set_accession": "CS202106160_355",
       "parent_cell_set_name": "CA3",
       "parent_cell_set_accession": "CS202106160_578",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "355_CA3-ve",
         "cell_set_designation": "CTX-HPF 355",
@@ -28,7 +28,7 @@
       "cell_set_accession": "CS202106160_388",
       "parent_cell_set_name": "Micro-PVM",
       "parent_cell_set_accession": "CS202106160_608",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "388_Micro-PVM",
         "cell_set_designation": "CTX-HPF 388",
@@ -46,7 +46,7 @@
       "cell_set_accession": "CS202106160_106",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "106_Sst HPF",
         "cell_set_designation": "CTX-HPF 106",
@@ -64,7 +64,7 @@
       "cell_set_accession": "CS202106160_155",
       "parent_cell_set_name": "L2/3 IT ENTl",
       "parent_cell_set_accession": "subclass_label:9c706e279e",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "155_L2/3 IT ENTl",
         "cell_set_designation": "CTX-HPF 155",
@@ -82,7 +82,7 @@
       "cell_set_accession": "CS202106160_360",
       "parent_cell_set_name": "CA2-IG-FC",
       "parent_cell_set_accession": "CS202106160_585",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "360_CA2-IG-FC",
         "cell_set_designation": "CTX-HPF 360",
@@ -100,7 +100,7 @@
       "cell_set_accession": "CS202106160_320",
       "parent_cell_set_name": "SUB-ProS",
       "parent_cell_set_accession": "subclass_label:a416c5553f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "320_SUB",
         "cell_set_designation": "CTX-HPF 320",
@@ -118,7 +118,7 @@
       "cell_set_accession": "CS202106160_181",
       "parent_cell_set_name": "L4/5 IT CTX",
       "parent_cell_set_accession": "subclass_label:40ec201664",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "181_L4 IT CTX",
         "cell_set_designation": "CTX-HPF 181",
@@ -136,7 +136,7 @@
       "cell_set_accession": "CS202106160_127",
       "parent_cell_set_name": "L2/3 IT PPP",
       "parent_cell_set_accession": "subclass_label:5d7a3b937f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "127_L2 IT APr",
         "cell_set_designation": "CTX-HPF 127",
@@ -154,7 +154,7 @@
       "cell_set_accession": "CS202106160_267",
       "parent_cell_set_name": "L5/6 NP CTX",
       "parent_cell_set_accession": "CS202106160_538",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "267_L5/6 NP CTX",
         "cell_set_designation": "CTX-HPF 267",
@@ -172,7 +172,7 @@
       "cell_set_accession": "CS202106160_38",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "38_Sncg",
         "cell_set_designation": "CTX-HPF 038",
@@ -190,7 +190,7 @@
       "cell_set_accession": "CS202106160_279",
       "parent_cell_set_name": "L6 CT CTX",
       "parent_cell_set_accession": "CS202106160_548",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "279_L6 CT CTX",
         "cell_set_designation": "CTX-HPF 279",
@@ -208,7 +208,7 @@
       "cell_set_accession": "CS202106160_293",
       "parent_cell_set_name": "L6 CT CTX",
       "parent_cell_set_accession": "CS202106160_548",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "293_L6 CT CTX",
         "cell_set_designation": "CTX-HPF 293",
@@ -226,7 +226,7 @@
       "cell_set_accession": "CS202106160_129",
       "parent_cell_set_name": "L2/3 IT PPP",
       "parent_cell_set_accession": "subclass_label:5d7a3b937f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "129_L2/3 IT POST-PRE",
         "cell_set_designation": "CTX-HPF 129",
@@ -244,7 +244,7 @@
       "cell_set_accession": "CS202106160_71",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "71_Sst",
         "cell_set_designation": "CTX-HPF 071",
@@ -262,7 +262,7 @@
       "cell_set_accession": "CS202106160_318",
       "parent_cell_set_name": "SUB-ProS",
       "parent_cell_set_accession": "subclass_label:a416c5553f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "318_SUB",
         "cell_set_designation": "CTX-HPF 318",
@@ -280,7 +280,7 @@
       "cell_set_accession": "CS202106160_347",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "347_CA1-do",
         "cell_set_designation": "CTX-HPF 347",
@@ -298,7 +298,7 @@
       "cell_set_accession": "CS202106160_133",
       "parent_cell_set_name": "L2/3 IT PPP",
       "parent_cell_set_accession": "subclass_label:5d7a3b937f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "133_L2 IT RSPv-POST-PRE",
         "cell_set_designation": "CTX-HPF 133",
@@ -316,7 +316,7 @@
       "cell_set_accession": "CS202106160_345",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "345_CA1",
         "cell_set_designation": "CTX-HPF 345",
@@ -334,7 +334,7 @@
       "cell_set_accession": "CS202106160_83",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "83_Sst",
         "cell_set_designation": "CTX-HPF 083",
@@ -352,7 +352,7 @@
       "cell_set_accession": "CS202106160_59",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "59_Vip Igfbp6",
         "cell_set_designation": "CTX-HPF 059",
@@ -370,7 +370,7 @@
       "cell_set_accession": "CS202106160_1",
       "parent_cell_set_name": "CR",
       "parent_cell_set_accession": "subclass_label:da99a9426c",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "1_CR",
         "cell_set_designation": "CTX-HPF 001",
@@ -388,7 +388,7 @@
       "cell_set_accession": "CS202106160_200",
       "parent_cell_set_name": "L5 IT CTX",
       "parent_cell_set_accession": "subclass_label:d88cf82cba",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "200_L5 IT CTX",
         "cell_set_designation": "CTX-HPF 200",
@@ -406,7 +406,7 @@
       "cell_set_accession": "CS202106160_223",
       "parent_cell_set_name": "L6 IT CTX",
       "parent_cell_set_accession": "subclass_label:10db4e9506",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "223_L6 IT CTX",
         "cell_set_designation": "CTX-HPF 223",
@@ -424,7 +424,7 @@
       "cell_set_accession": "CS202106160_239",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "239_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 239",
@@ -442,7 +442,7 @@
       "cell_set_accession": "CS202106160_17",
       "parent_cell_set_name": "Lamp5",
       "parent_cell_set_accession": "subclass_label:e40986e2c0",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "17_Lamp5",
         "cell_set_designation": "CTX-HPF 017",
@@ -460,7 +460,7 @@
       "cell_set_accession": "CS202106160_82",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "82_Sst",
         "cell_set_designation": "CTX-HPF 082",
@@ -478,7 +478,7 @@
       "cell_set_accession": "CS202106160_356",
       "parent_cell_set_name": "CA3",
       "parent_cell_set_accession": "CS202106160_578",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "356_CA3-do",
         "cell_set_designation": "CTX-HPF 356",
@@ -496,7 +496,7 @@
       "cell_set_accession": "CS202106160_230",
       "parent_cell_set_name": "L6 IT CTX",
       "parent_cell_set_accession": "subclass_label:10db4e9506",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "230_L6 IT CTX",
         "cell_set_designation": "CTX-HPF 230",
@@ -514,7 +514,7 @@
       "cell_set_accession": "CS202106160_343",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "343_CA1",
         "cell_set_designation": "CTX-HPF 343",
@@ -532,7 +532,7 @@
       "cell_set_accession": "CS202106160_150",
       "parent_cell_set_name": "L2 IT ENTm",
       "parent_cell_set_accession": "CS202106160_486",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "150_L2 IT ENTm",
         "cell_set_designation": "CTX-HPF 150",
@@ -550,7 +550,7 @@
       "cell_set_accession": "CS202106160_199",
       "parent_cell_set_name": "L5 IT CTX",
       "parent_cell_set_accession": "subclass_label:d88cf82cba",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "199_L5 IT CTX",
         "cell_set_designation": "CTX-HPF 199",
@@ -568,7 +568,7 @@
       "cell_set_accession": "CS202106160_346",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "346_CA1-do",
         "cell_set_designation": "CTX-HPF 346",
@@ -586,7 +586,7 @@
       "cell_set_accession": "CS202106160_248",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "248_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 248",
@@ -604,7 +604,7 @@
       "cell_set_accession": "CS202106160_327",
       "parent_cell_set_name": "SUB-ProS",
       "parent_cell_set_accession": "subclass_label:a416c5553f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "327_ProS",
         "cell_set_designation": "CTX-HPF 327",
@@ -622,7 +622,7 @@
       "cell_set_accession": "CS202106160_48",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "48_Vip",
         "cell_set_designation": "CTX-HPF 048",
@@ -640,7 +640,7 @@
       "cell_set_accession": "CS202106160_172",
       "parent_cell_set_name": "L2/3 IT RHP",
       "parent_cell_set_accession": "CS202106160_498",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "172_L2/3 IT ProS",
         "cell_set_designation": "CTX-HPF 172",
@@ -658,7 +658,7 @@
       "cell_set_accession": "CS202106160_206",
       "parent_cell_set_name": "L5 IT CTX",
       "parent_cell_set_accession": "subclass_label:d88cf82cba",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "206_L5/6 IT CTX",
         "cell_set_designation": "CTX-HPF 206",
@@ -676,7 +676,7 @@
       "cell_set_accession": "CS202106160_385",
       "parent_cell_set_name": "VLMC",
       "parent_cell_set_accession": "CS202106160_606",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "385_VLMC",
         "cell_set_designation": "CTX-HPF 385",
@@ -694,7 +694,7 @@
       "cell_set_accession": "CS202106160_367",
       "parent_cell_set_name": "Oligo",
       "parent_cell_set_accession": "subclass_label:3deb6c773a",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "367_Oligo",
         "cell_set_designation": "CTX-HPF 367",
@@ -712,7 +712,7 @@
       "cell_set_accession": "CS202106160_295",
       "parent_cell_set_name": "CT SUB",
       "parent_cell_set_accession": "CS202106160_551",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "295_CT SUB",
         "cell_set_designation": "CTX-HPF 295",
@@ -730,7 +730,7 @@
       "cell_set_accession": "CS202106160_287",
       "parent_cell_set_name": "L6 CT CTX",
       "parent_cell_set_accession": "CS202106160_548",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "287_L6 CT CTX",
         "cell_set_designation": "CTX-HPF 287",
@@ -748,7 +748,7 @@
       "cell_set_accession": "CS202106160_137",
       "parent_cell_set_name": "L3 IT ENT",
       "parent_cell_set_accession": "CS202106160_480",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "137_L3 IT ENTm",
         "cell_set_designation": "CTX-HPF 137",
@@ -766,7 +766,7 @@
       "cell_set_accession": "CS202106160_215",
       "parent_cell_set_name": "L5/6 IT TPE-ENT",
       "parent_cell_set_accession": "subclass_label:753888bc28",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "215_L5/6 IT TPE-ENT",
         "cell_set_designation": "CTX-HPF 215",
@@ -784,7 +784,7 @@
       "cell_set_accession": "CS202106160_366",
       "parent_cell_set_name": "Oligo",
       "parent_cell_set_accession": "subclass_label:3deb6c773a",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "366_Oligo",
         "cell_set_designation": "CTX-HPF 366",
@@ -802,7 +802,7 @@
       "cell_set_accession": "CS202106160_380",
       "parent_cell_set_name": "SMC-Peri",
       "parent_cell_set_accession": "CS202106160_604",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "380_SMC-Peri",
         "cell_set_designation": "CTX-HPF 380",
@@ -820,7 +820,7 @@
       "cell_set_accession": "CS202106160_374",
       "parent_cell_set_name": "Oligo",
       "parent_cell_set_accession": "subclass_label:3deb6c773a",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "374_Oligo",
         "cell_set_designation": "CTX-HPF 374",
@@ -838,7 +838,7 @@
       "cell_set_accession": "CS202106160_25",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "25_Sncg",
         "cell_set_designation": "CTX-HPF 025",
@@ -856,7 +856,7 @@
       "cell_set_accession": "CS202106160_236",
       "parent_cell_set_name": "Car3",
       "parent_cell_set_accession": "CS202106160_525",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "236_Car3",
         "cell_set_designation": "CTX-HPF 236",
@@ -874,7 +874,7 @@
       "cell_set_accession": "CS202106160_41",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "41_Vip",
         "cell_set_designation": "CTX-HPF 041",
@@ -892,7 +892,7 @@
       "cell_set_accession": "CS202106160_105",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "105_Sst HPF",
         "cell_set_designation": "CTX-HPF 105",
@@ -910,7 +910,7 @@
       "cell_set_accession": "CS202106160_186",
       "parent_cell_set_name": "L4/5 IT CTX",
       "parent_cell_set_accession": "subclass_label:40ec201664",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "186_L4/5 IT CTX",
         "cell_set_designation": "CTX-HPF 186",
@@ -928,7 +928,7 @@
       "cell_set_accession": "CS202106160_103",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "103_Sst HPF",
         "cell_set_designation": "CTX-HPF 103",
@@ -946,7 +946,7 @@
       "cell_set_accession": "CS202106160_21",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "21_Sncg",
         "cell_set_designation": "CTX-HPF 021",
@@ -964,7 +964,7 @@
       "cell_set_accession": "CS202106160_344",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "344_CA1",
         "cell_set_designation": "CTX-HPF 344",
@@ -982,7 +982,7 @@
       "cell_set_accession": "CS202106160_99",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "99_Sst",
         "cell_set_designation": "CTX-HPF 099",
@@ -1000,7 +1000,7 @@
       "cell_set_accession": "CS202106160_212",
       "parent_cell_set_name": "L5/6 IT TPE-ENT",
       "parent_cell_set_accession": "subclass_label:753888bc28",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "212_L5/6 IT TPE-ENT",
         "cell_set_designation": "CTX-HPF 212",
@@ -1018,7 +1018,7 @@
       "cell_set_accession": "CS202106160_263",
       "parent_cell_set_name": "L5 PPP",
       "parent_cell_set_accession": "subclass_label:bbf0716163",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "263_L5 PPP",
         "cell_set_designation": "CTX-HPF 263",
@@ -1036,7 +1036,7 @@
       "cell_set_accession": "CS202106160_91",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "91_Sst",
         "cell_set_designation": "CTX-HPF 091",
@@ -1054,7 +1054,7 @@
       "cell_set_accession": "CS202106160_12",
       "parent_cell_set_name": "Lamp5",
       "parent_cell_set_accession": "subclass_label:e40986e2c0",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "12_Lamp5",
         "cell_set_designation": "CTX-HPF 012",
@@ -1072,7 +1072,7 @@
       "cell_set_accession": "CS202106160_146",
       "parent_cell_set_name": "L2 IT ENTm",
       "parent_cell_set_accession": "CS202106160_486",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "146_L2 IT ENTm",
         "cell_set_designation": "CTX-HPF 146",
@@ -1090,7 +1090,7 @@
       "cell_set_accession": "CS202106160_152",
       "parent_cell_set_name": "L2/3 IT ENTl",
       "parent_cell_set_accession": "subclass_label:9c706e279e",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "152_L2/3 IT ENTl",
         "cell_set_designation": "CTX-HPF 152",
@@ -1108,7 +1108,7 @@
       "cell_set_accession": "CS202106160_72",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "72_Sst",
         "cell_set_designation": "CTX-HPF 072",
@@ -1126,7 +1126,7 @@
       "cell_set_accession": "CS202106160_49",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "49_Vip",
         "cell_set_designation": "CTX-HPF 049",
@@ -1144,7 +1144,7 @@
       "cell_set_accession": "CS202106160_243",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "243_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 243",
@@ -1162,7 +1162,7 @@
       "cell_set_accession": "CS202106160_31",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "31_Sncg",
         "cell_set_designation": "CTX-HPF 031",
@@ -1180,7 +1180,7 @@
       "cell_set_accession": "CS202106160_46",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "46_Vip",
         "cell_set_designation": "CTX-HPF 046",
@@ -1198,7 +1198,7 @@
       "cell_set_accession": "CS202106160_141",
       "parent_cell_set_name": "L2/3 IT PPP",
       "parent_cell_set_accession": "subclass_label:5d7a3b937f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "141_L2/3 IT PAR",
         "cell_set_designation": "CTX-HPF 141",
@@ -1216,7 +1216,7 @@
       "cell_set_accession": "CS202106160_336",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "336_CA1-ve",
         "cell_set_designation": "CTX-HPF 336",
@@ -1234,7 +1234,7 @@
       "cell_set_accession": "CS202106160_13",
       "parent_cell_set_name": "Lamp5",
       "parent_cell_set_accession": "subclass_label:e40986e2c0",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "13_Lamp5",
         "cell_set_designation": "CTX-HPF 013",
@@ -1252,7 +1252,7 @@
       "cell_set_accession": "CS202106160_135",
       "parent_cell_set_name": "L3 IT ENT",
       "parent_cell_set_accession": "CS202106160_480",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "135_L3 IT ENTm",
         "cell_set_designation": "CTX-HPF 135",
@@ -1270,7 +1270,7 @@
       "cell_set_accession": "CS202106160_145",
       "parent_cell_set_name": "L2/3 IT PPP",
       "parent_cell_set_accession": "subclass_label:5d7a3b937f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "145_L2/3 IT PAR",
         "cell_set_designation": "CTX-HPF 145",
@@ -1288,7 +1288,7 @@
       "cell_set_accession": "CS202106160_218",
       "parent_cell_set_name": "L6 IT CTX",
       "parent_cell_set_accession": "subclass_label:10db4e9506",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "218_L6 IT CTX",
         "cell_set_designation": "CTX-HPF 218",
@@ -1306,7 +1306,7 @@
       "cell_set_accession": "CS202106160_278",
       "parent_cell_set_name": "L6 CT CTX",
       "parent_cell_set_accession": "CS202106160_548",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "278_L6 CT CTX",
         "cell_set_designation": "CTX-HPF 278",
@@ -1324,7 +1324,7 @@
       "cell_set_accession": "CS202106160_378",
       "parent_cell_set_name": "Astro",
       "parent_cell_set_accession": "subclass_label:ae2c9ed8f1",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "378_Astro",
         "cell_set_designation": "CTX-HPF 378",
@@ -1342,7 +1342,7 @@
       "cell_set_accession": "CS202106160_131",
       "parent_cell_set_name": "L2/3 IT PPP",
       "parent_cell_set_accession": "subclass_label:5d7a3b937f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "131_L2/3 IT POST-PRE",
         "cell_set_designation": "CTX-HPF 131",
@@ -1360,7 +1360,7 @@
       "cell_set_accession": "CS202106160_351",
       "parent_cell_set_name": "CA3",
       "parent_cell_set_accession": "CS202106160_578",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "351_CA3-ve",
         "cell_set_designation": "CTX-HPF 351",
@@ -1378,7 +1378,7 @@
       "cell_set_accession": "CS202106160_342",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "342_CA1",
         "cell_set_designation": "CTX-HPF 342",
@@ -1396,7 +1396,7 @@
       "cell_set_accession": "CS202106160_340",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "340_CA1",
         "cell_set_designation": "CTX-HPF 340",
@@ -1414,7 +1414,7 @@
       "cell_set_accession": "CS202106160_140",
       "parent_cell_set_name": "L3 IT ENT",
       "parent_cell_set_accession": "CS202106160_480",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "140_L3 IT ENTl",
         "cell_set_designation": "CTX-HPF 140",
@@ -1432,7 +1432,7 @@
       "cell_set_accession": "CS202106160_51",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "51_Vip",
         "cell_set_designation": "CTX-HPF 051",
@@ -1450,7 +1450,7 @@
       "cell_set_accession": "CS202106160_156",
       "parent_cell_set_name": "L2/3 IT ENTl",
       "parent_cell_set_accession": "subclass_label:9c706e279e",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "156_L2/3 IT ENTl",
         "cell_set_designation": "CTX-HPF 156",
@@ -1468,7 +1468,7 @@
       "cell_set_accession": "CS202106160_202",
       "parent_cell_set_name": "L5 IT CTX",
       "parent_cell_set_accession": "subclass_label:d88cf82cba",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "202_L5 IT CTX",
         "cell_set_designation": "CTX-HPF 202",
@@ -1486,7 +1486,7 @@
       "cell_set_accession": "CS202106160_95",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "95_Sst",
         "cell_set_designation": "CTX-HPF 095",
@@ -1504,7 +1504,7 @@
       "cell_set_accession": "CS202106160_233",
       "parent_cell_set_name": "L6 IT ENTl",
       "parent_cell_set_accession": "subclass_label:7ec93c83f4",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "233_L6 IT ENTl",
         "cell_set_designation": "CTX-HPF 233",
@@ -1522,7 +1522,7 @@
       "cell_set_accession": "CS202106160_170",
       "parent_cell_set_name": "L2/3 IT CTX",
       "parent_cell_set_accession": "CS202106160_494",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "170_L2/3 IT CTX",
         "cell_set_designation": "CTX-HPF 170",
@@ -1540,7 +1540,7 @@
       "cell_set_accession": "CS202106160_168",
       "parent_cell_set_name": "L2/3 IT CTX",
       "parent_cell_set_accession": "CS202106160_494",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "168_L2/3 IT CTX",
         "cell_set_designation": "CTX-HPF 168",
@@ -1558,7 +1558,7 @@
       "cell_set_accession": "CS202106160_191",
       "parent_cell_set_name": "L4/5 IT CTX",
       "parent_cell_set_accession": "subclass_label:40ec201664",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "191_L4/5 IT CTX",
         "cell_set_designation": "CTX-HPF 191",
@@ -1576,7 +1576,7 @@
       "cell_set_accession": "CS202106160_144",
       "parent_cell_set_name": "L2/3 IT PPP",
       "parent_cell_set_accession": "subclass_label:5d7a3b937f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "144_L2/3 IT PAR",
         "cell_set_designation": "CTX-HPF 144",
@@ -1594,7 +1594,7 @@
       "cell_set_accession": "CS202106160_54",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "54_Vip HPF",
         "cell_set_designation": "CTX-HPF 054",
@@ -1612,7 +1612,7 @@
       "cell_set_accession": "CS202106160_280",
       "parent_cell_set_name": "L6 CT CTX",
       "parent_cell_set_accession": "CS202106160_548",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "280_L6 CT CTX",
         "cell_set_designation": "CTX-HPF 280",
@@ -1630,7 +1630,7 @@
       "cell_set_accession": "CS202106160_264",
       "parent_cell_set_name": "L5/6 NP CTX",
       "parent_cell_set_accession": "CS202106160_538",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "264_L5/6 NP CTX",
         "cell_set_designation": "CTX-HPF 264",
@@ -1648,7 +1648,7 @@
       "cell_set_accession": "CS202106160_353",
       "parent_cell_set_name": "CA3",
       "parent_cell_set_accession": "CS202106160_578",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "353_CA3-ve",
         "cell_set_designation": "CTX-HPF 353",
@@ -1666,7 +1666,7 @@
       "cell_set_accession": "CS202106160_238",
       "parent_cell_set_name": "Car3",
       "parent_cell_set_accession": "CS202106160_525",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "238_Car3",
         "cell_set_designation": "CTX-HPF 238",
@@ -1684,7 +1684,7 @@
       "cell_set_accession": "CS202106160_300",
       "parent_cell_set_name": "L6b/CT ENT",
       "parent_cell_set_accession": "subclass_label:d636443977",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "300_L6b ENT",
         "cell_set_designation": "CTX-HPF 300",
@@ -1702,7 +1702,7 @@
       "cell_set_accession": "CS202106160_22",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "22_Sncg",
         "cell_set_designation": "CTX-HPF 022",
@@ -1720,7 +1720,7 @@
       "cell_set_accession": "CS202106160_101",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "101_Sst",
         "cell_set_designation": "CTX-HPF 101",
@@ -1738,7 +1738,7 @@
       "cell_set_accession": "CS202106160_386",
       "parent_cell_set_name": "Micro-PVM",
       "parent_cell_set_accession": "CS202106160_608",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "386_Micro-PVM",
         "cell_set_designation": "CTX-HPF 386",
@@ -1756,7 +1756,7 @@
       "cell_set_accession": "CS202106160_201",
       "parent_cell_set_name": "L5 IT CTX",
       "parent_cell_set_accession": "subclass_label:d88cf82cba",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "201_L5 IT CTX",
         "cell_set_designation": "CTX-HPF 201",
@@ -1774,7 +1774,7 @@
       "cell_set_accession": "CS202106160_372",
       "parent_cell_set_name": "Oligo",
       "parent_cell_set_accession": "subclass_label:3deb6c773a",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "372_Oligo",
         "cell_set_designation": "CTX-HPF 372",
@@ -1792,7 +1792,7 @@
       "cell_set_accession": "CS202106160_273",
       "parent_cell_set_name": "NP SUB",
       "parent_cell_set_accession": "CS202106160_541",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "273_NP SUB",
         "cell_set_designation": "CTX-HPF 273",
@@ -1810,7 +1810,7 @@
       "cell_set_accession": "CS202106160_208",
       "parent_cell_set_name": "L5 IT CTX",
       "parent_cell_set_accession": "subclass_label:d88cf82cba",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "208_L5/6 IT CTX",
         "cell_set_designation": "CTX-HPF 208",
@@ -1828,7 +1828,7 @@
       "cell_set_accession": "CS202106160_104",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "104_Sst HPF",
         "cell_set_designation": "CTX-HPF 104",
@@ -1846,7 +1846,7 @@
       "cell_set_accession": "CS202106160_250",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "250_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 250",
@@ -1864,7 +1864,7 @@
       "cell_set_accession": "CS202106160_62",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "62_Vip Igfbp6",
         "cell_set_designation": "CTX-HPF 062",
@@ -1882,7 +1882,7 @@
       "cell_set_accession": "CS202106160_358",
       "parent_cell_set_name": "CA3",
       "parent_cell_set_accession": "CS202106160_578",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "358_CA3-do",
         "cell_set_designation": "CTX-HPF 358",
@@ -1900,7 +1900,7 @@
       "cell_set_accession": "CS202106160_14",
       "parent_cell_set_name": "Lamp5",
       "parent_cell_set_accession": "subclass_label:e40986e2c0",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "14_Lamp5",
         "cell_set_designation": "CTX-HPF 014",
@@ -1918,7 +1918,7 @@
       "cell_set_accession": "CS202106160_117",
       "parent_cell_set_name": "Pvalb",
       "parent_cell_set_accession": "CS202106160_463",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "117_Pvalb",
         "cell_set_designation": "CTX-HPF 117",
@@ -1936,7 +1936,7 @@
       "cell_set_accession": "CS202106160_128",
       "parent_cell_set_name": "L2/3 IT PPP",
       "parent_cell_set_accession": "subclass_label:5d7a3b937f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "128_L2 IT APr",
         "cell_set_designation": "CTX-HPF 128",
@@ -1954,7 +1954,7 @@
       "cell_set_accession": "CS202106160_314",
       "parent_cell_set_name": "L6b CTX",
       "parent_cell_set_accession": "subclass_label:8fb647662f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "314_L6b CTX",
         "cell_set_designation": "CTX-HPF 314",
@@ -1972,7 +1972,7 @@
       "cell_set_accession": "CS202106160_338",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "338_CA1",
         "cell_set_designation": "CTX-HPF 338",
@@ -1990,7 +1990,7 @@
       "cell_set_accession": "CS202106160_159",
       "parent_cell_set_name": "L2/3 IT ENTl",
       "parent_cell_set_accession": "subclass_label:9c706e279e",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "159_L2/3 IT AI",
         "cell_set_designation": "CTX-HPF 159",
@@ -2008,7 +2008,7 @@
       "cell_set_accession": "CS202106160_319",
       "parent_cell_set_name": "SUB-ProS",
       "parent_cell_set_accession": "subclass_label:a416c5553f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "319_SUB",
         "cell_set_designation": "CTX-HPF 319",
@@ -2026,7 +2026,7 @@
       "cell_set_accession": "CS202106160_182",
       "parent_cell_set_name": "L4/5 IT CTX",
       "parent_cell_set_accession": "subclass_label:40ec201664",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "182_L4/5 IT CTX",
         "cell_set_designation": "CTX-HPF 182",
@@ -2044,7 +2044,7 @@
       "cell_set_accession": "CS202106160_207",
       "parent_cell_set_name": "L5 IT CTX",
       "parent_cell_set_accession": "subclass_label:d88cf82cba",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "207_L5/6 IT CTX",
         "cell_set_designation": "CTX-HPF 207",
@@ -2062,7 +2062,7 @@
       "cell_set_accession": "CS202106160_271",
       "parent_cell_set_name": "NP SUB",
       "parent_cell_set_accession": "CS202106160_541",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "271_NP SUB",
         "cell_set_designation": "CTX-HPF 271",
@@ -2080,7 +2080,7 @@
       "cell_set_accession": "CS202106160_5",
       "parent_cell_set_name": "Lamp5",
       "parent_cell_set_accession": "subclass_label:e40986e2c0",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "5_Lamp5 Lhx6",
         "cell_set_designation": "CTX-HPF 005",
@@ -2098,7 +2098,7 @@
       "cell_set_accession": "CS202106160_162",
       "parent_cell_set_name": "L2/3 IT CTX",
       "parent_cell_set_accession": "CS202106160_494",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "162_L2/3 IT CTX",
         "cell_set_designation": "CTX-HPF 162",
@@ -2116,7 +2116,7 @@
       "cell_set_accession": "CS202106160_142",
       "parent_cell_set_name": "L2/3 IT PPP",
       "parent_cell_set_accession": "subclass_label:5d7a3b937f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "142_L2/3 IT PAR",
         "cell_set_designation": "CTX-HPF 142",
@@ -2134,7 +2134,7 @@
       "cell_set_accession": "CS202106160_81",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "81_Sst",
         "cell_set_designation": "CTX-HPF 081",
@@ -2152,7 +2152,7 @@
       "cell_set_accession": "CS202106160_183",
       "parent_cell_set_name": "L4/5 IT CTX",
       "parent_cell_set_accession": "subclass_label:40ec201664",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "183_L4/5 IT CTX",
         "cell_set_designation": "CTX-HPF 183",
@@ -2170,7 +2170,7 @@
       "cell_set_accession": "CS202106160_376",
       "parent_cell_set_name": "Astro",
       "parent_cell_set_accession": "subclass_label:ae2c9ed8f1",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "376_Astro",
         "cell_set_designation": "CTX-HPF 376",
@@ -2188,7 +2188,7 @@
       "cell_set_accession": "CS202106160_97",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "97_Sst",
         "cell_set_designation": "CTX-HPF 097",
@@ -2206,7 +2206,7 @@
       "cell_set_accession": "CS202106160_294",
       "parent_cell_set_name": "CT SUB",
       "parent_cell_set_accession": "CS202106160_551",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "294_CT SUB",
         "cell_set_designation": "CTX-HPF 294",
@@ -2224,7 +2224,7 @@
       "cell_set_accession": "CS202106160_322",
       "parent_cell_set_name": "SUB-ProS",
       "parent_cell_set_accession": "subclass_label:a416c5553f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "322_ProS",
         "cell_set_designation": "CTX-HPF 322",
@@ -2242,7 +2242,7 @@
       "cell_set_accession": "CS202106160_296",
       "parent_cell_set_name": "CT SUB",
       "parent_cell_set_accession": "CS202106160_551",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "296_CT SUB",
         "cell_set_designation": "CTX-HPF 296",
@@ -2260,7 +2260,7 @@
       "cell_set_accession": "CS202106160_19",
       "parent_cell_set_name": "Lamp5",
       "parent_cell_set_accession": "subclass_label:e40986e2c0",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "19_Pax6",
         "cell_set_designation": "CTX-HPF 019",
@@ -2278,7 +2278,7 @@
       "cell_set_accession": "CS202106160_148",
       "parent_cell_set_name": "L2 IT ENTm",
       "parent_cell_set_accession": "CS202106160_486",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "148_L2 IT ENTm",
         "cell_set_designation": "CTX-HPF 148",
@@ -2296,7 +2296,7 @@
       "cell_set_accession": "CS202106160_57",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "57_Vip Igfbp6",
         "cell_set_designation": "CTX-HPF 057",
@@ -2314,7 +2314,7 @@
       "cell_set_accession": "CS202106160_365",
       "parent_cell_set_name": "Oligo",
       "parent_cell_set_accession": "subclass_label:3deb6c773a",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "365_Oligo",
         "cell_set_designation": "CTX-HPF 365",
@@ -2332,7 +2332,7 @@
       "cell_set_accession": "CS202106160_209",
       "parent_cell_set_name": "L5 IT CTX",
       "parent_cell_set_accession": "subclass_label:d88cf82cba",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "209_L5/6 IT CTX",
         "cell_set_designation": "CTX-HPF 209",
@@ -2350,7 +2350,7 @@
       "cell_set_accession": "CS202106160_134",
       "parent_cell_set_name": "L2/3 IT PPP",
       "parent_cell_set_accession": "subclass_label:5d7a3b937f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "134_L2 IT RSP-ACA",
         "cell_set_designation": "CTX-HPF 134",
@@ -2368,7 +2368,7 @@
       "cell_set_accession": "CS202106160_35",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "35_Sncg",
         "cell_set_designation": "CTX-HPF 035",
@@ -2386,7 +2386,7 @@
       "cell_set_accession": "CS202106160_297",
       "parent_cell_set_name": "CT SUB",
       "parent_cell_set_accession": "CS202106160_551",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "297_CT SUB",
         "cell_set_designation": "CTX-HPF 297",
@@ -2404,7 +2404,7 @@
       "cell_set_accession": "CS202106160_292",
       "parent_cell_set_name": "L6 CT CTX",
       "parent_cell_set_accession": "CS202106160_548",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "292_L6 CT CTX",
         "cell_set_designation": "CTX-HPF 292",
@@ -2422,7 +2422,7 @@
       "cell_set_accession": "CS202106160_11",
       "parent_cell_set_name": "Lamp5",
       "parent_cell_set_accession": "subclass_label:e40986e2c0",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "11_Lamp5",
         "cell_set_designation": "CTX-HPF 011",
@@ -2440,7 +2440,7 @@
       "cell_set_accession": "CS202106160_284",
       "parent_cell_set_name": "L6 CT CTX",
       "parent_cell_set_accession": "CS202106160_548",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "284_L6 CT CTX",
         "cell_set_designation": "CTX-HPF 284",
@@ -2458,7 +2458,7 @@
       "cell_set_accession": "CS202106160_229",
       "parent_cell_set_name": "L6 IT CTX",
       "parent_cell_set_accession": "subclass_label:10db4e9506",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "229_L6 IT CTX",
         "cell_set_designation": "CTX-HPF 229",
@@ -2476,7 +2476,7 @@
       "cell_set_accession": "CS202106160_290",
       "parent_cell_set_name": "L6 CT CTX",
       "parent_cell_set_accession": "CS202106160_548",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "290_L6 CT CTX",
         "cell_set_designation": "CTX-HPF 290",
@@ -2494,7 +2494,7 @@
       "cell_set_accession": "CS202106160_84",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "84_Sst",
         "cell_set_designation": "CTX-HPF 084",
@@ -2512,7 +2512,7 @@
       "cell_set_accession": "CS202106160_18",
       "parent_cell_set_name": "Lamp5",
       "parent_cell_set_accession": "subclass_label:e40986e2c0",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "18_Lamp5",
         "cell_set_designation": "CTX-HPF 018",
@@ -2530,7 +2530,7 @@
       "cell_set_accession": "CS202106160_77",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "77_Sst HPF",
         "cell_set_designation": "CTX-HPF 077",
@@ -2548,7 +2548,7 @@
       "cell_set_accession": "CS202106160_289",
       "parent_cell_set_name": "L6 CT CTX",
       "parent_cell_set_accession": "CS202106160_548",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "289_L6 CT CTX",
         "cell_set_designation": "CTX-HPF 289",
@@ -2566,7 +2566,7 @@
       "cell_set_accession": "CS202106160_89",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "89_Sst",
         "cell_set_designation": "CTX-HPF 089",
@@ -2584,7 +2584,7 @@
       "cell_set_accession": "CS202106160_8",
       "parent_cell_set_name": "Lamp5",
       "parent_cell_set_accession": "subclass_label:e40986e2c0",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "8_Lamp5 Lhx6",
         "cell_set_designation": "CTX-HPF 008",
@@ -2602,7 +2602,7 @@
       "cell_set_accession": "CS202106160_272",
       "parent_cell_set_name": "NP SUB",
       "parent_cell_set_accession": "CS202106160_541",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "272_NP SUB",
         "cell_set_designation": "CTX-HPF 272",
@@ -2620,7 +2620,7 @@
       "cell_set_accession": "CS202106160_350",
       "parent_cell_set_name": "CA3",
       "parent_cell_set_accession": "CS202106160_578",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "350_Mossy",
         "cell_set_designation": "CTX-HPF 350",
@@ -2638,7 +2638,7 @@
       "cell_set_accession": "CS202106160_261",
       "parent_cell_set_name": "L4 RSP-ACA",
       "parent_cell_set_accession": "CS202106160_535",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "261_L4 RSP-ACA",
         "cell_set_designation": "CTX-HPF 261",
@@ -2656,7 +2656,7 @@
       "cell_set_accession": "CS202106160_317",
       "parent_cell_set_name": "L6b CTX",
       "parent_cell_set_accession": "subclass_label:8fb647662f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "317_L6b CTX",
         "cell_set_designation": "CTX-HPF 317",
@@ -2674,7 +2674,7 @@
       "cell_set_accession": "CS202106160_149",
       "parent_cell_set_name": "L2 IT ENTm",
       "parent_cell_set_accession": "CS202106160_486",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "149_L2 IT ENTm",
         "cell_set_designation": "CTX-HPF 149",
@@ -2692,7 +2692,7 @@
       "cell_set_accession": "CS202106160_235",
       "parent_cell_set_name": "L6 IT ENTl",
       "parent_cell_set_accession": "subclass_label:7ec93c83f4",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "235_L6 IT ENTl",
         "cell_set_designation": "CTX-HPF 235",
@@ -2710,7 +2710,7 @@
       "cell_set_accession": "CS202106160_368",
       "parent_cell_set_name": "Oligo",
       "parent_cell_set_accession": "subclass_label:3deb6c773a",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "368_Oligo",
         "cell_set_designation": "CTX-HPF 368",
@@ -2728,7 +2728,7 @@
       "cell_set_accession": "CS202106160_165",
       "parent_cell_set_name": "L2/3 IT CTX",
       "parent_cell_set_accession": "CS202106160_494",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "165_L2/3 IT CTX",
         "cell_set_designation": "CTX-HPF 165",
@@ -2746,7 +2746,7 @@
       "cell_set_accession": "CS202106160_387",
       "parent_cell_set_name": "Micro-PVM",
       "parent_cell_set_accession": "CS202106160_608",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "387_Micro-PVM",
         "cell_set_designation": "CTX-HPF 387",
@@ -2764,7 +2764,7 @@
       "cell_set_accession": "CS202106160_370",
       "parent_cell_set_name": "Oligo",
       "parent_cell_set_accession": "subclass_label:3deb6c773a",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "370_Oligo",
         "cell_set_designation": "CTX-HPF 370",
@@ -2782,7 +2782,7 @@
       "cell_set_accession": "CS202106160_64",
       "parent_cell_set_name": "Sst Chodl",
       "parent_cell_set_accession": "CS202106160_441",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "64_Sst Chodl",
         "cell_set_designation": "CTX-HPF 064",
@@ -2800,7 +2800,7 @@
       "cell_set_accession": "CS202106160_384",
       "parent_cell_set_name": "VLMC",
       "parent_cell_set_accession": "CS202106160_606",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "384_VLMC",
         "cell_set_designation": "CTX-HPF 384",
@@ -2818,7 +2818,7 @@
       "cell_set_accession": "CS202106160_341",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "341_CA1",
         "cell_set_designation": "CTX-HPF 341",
@@ -2836,7 +2836,7 @@
       "cell_set_accession": "CS202106160_339",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "339_CA1",
         "cell_set_designation": "CTX-HPF 339",
@@ -2854,7 +2854,7 @@
       "cell_set_accession": "CS202106160_94",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "94_Sst",
         "cell_set_designation": "CTX-HPF 094",
@@ -2872,7 +2872,7 @@
       "cell_set_accession": "CS202106160_369",
       "parent_cell_set_name": "Oligo",
       "parent_cell_set_accession": "subclass_label:3deb6c773a",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "369_Oligo",
         "cell_set_designation": "CTX-HPF 369",
@@ -2890,7 +2890,7 @@
       "cell_set_accession": "CS202106160_373",
       "parent_cell_set_name": "Oligo",
       "parent_cell_set_accession": "subclass_label:3deb6c773a",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "373_Oligo",
         "cell_set_designation": "CTX-HPF 373",
@@ -2908,7 +2908,7 @@
       "cell_set_accession": "CS202106160_304",
       "parent_cell_set_name": "L6b CTX",
       "parent_cell_set_accession": "subclass_label:8fb647662f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "304_L6b CTX",
         "cell_set_designation": "CTX-HPF 304",
@@ -2926,7 +2926,7 @@
       "cell_set_accession": "CS202106160_34",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "34_Sncg",
         "cell_set_designation": "CTX-HPF 034",
@@ -2944,7 +2944,7 @@
       "cell_set_accession": "CS202106160_377",
       "parent_cell_set_name": "Astro",
       "parent_cell_set_accession": "subclass_label:ae2c9ed8f1",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "377_Astro",
         "cell_set_designation": "CTX-HPF 377",
@@ -2962,7 +2962,7 @@
       "cell_set_accession": "CS202106160_222",
       "parent_cell_set_name": "L6 IT CTX",
       "parent_cell_set_accession": "subclass_label:10db4e9506",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "222_L6 IT CTX",
         "cell_set_designation": "CTX-HPF 222",
@@ -2980,7 +2980,7 @@
       "cell_set_accession": "CS202106160_203",
       "parent_cell_set_name": "L5 IT CTX",
       "parent_cell_set_accession": "subclass_label:d88cf82cba",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "203_L5/6 IT CTX",
         "cell_set_designation": "CTX-HPF 203",
@@ -2998,7 +2998,7 @@
       "cell_set_accession": "CS202106160_123",
       "parent_cell_set_name": "Pvalb",
       "parent_cell_set_accession": "CS202106160_463",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "123_Pvalb Vipr2",
         "cell_set_designation": "CTX-HPF 123",
@@ -3016,7 +3016,7 @@
       "cell_set_accession": "CS202106160_43",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "43_Vip",
         "cell_set_designation": "CTX-HPF 043",
@@ -3034,7 +3034,7 @@
       "cell_set_accession": "CS202106160_251",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "251_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 251",
@@ -3052,7 +3052,7 @@
       "cell_set_accession": "CS202106160_3",
       "parent_cell_set_name": "Meis2",
       "parent_cell_set_accession": "CS202106160_396",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "3_Meis2",
         "cell_set_designation": "CTX-HPF 003",
@@ -3070,7 +3070,7 @@
       "cell_set_accession": "CS202106160_221",
       "parent_cell_set_name": "L6 IT CTX",
       "parent_cell_set_accession": "subclass_label:10db4e9506",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "221_L6 IT CTX",
         "cell_set_designation": "CTX-HPF 221",
@@ -3088,7 +3088,7 @@
       "cell_set_accession": "CS202106160_175",
       "parent_cell_set_name": "L2/3 IT RHP",
       "parent_cell_set_accession": "CS202106160_498",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "175_IT HATA",
         "cell_set_designation": "CTX-HPF 175",
@@ -3106,7 +3106,7 @@
       "cell_set_accession": "CS202106160_108",
       "parent_cell_set_name": "Pvalb",
       "parent_cell_set_accession": "CS202106160_463",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "108_Pvalb",
         "cell_set_designation": "CTX-HPF 108",
@@ -3124,7 +3124,7 @@
       "cell_set_accession": "CS202106160_313",
       "parent_cell_set_name": "L6b CTX",
       "parent_cell_set_accession": "subclass_label:8fb647662f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "313_L6b CTX",
         "cell_set_designation": "CTX-HPF 313",
@@ -3142,7 +3142,7 @@
       "cell_set_accession": "CS202106160_70",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "70_Sst",
         "cell_set_designation": "CTX-HPF 070",
@@ -3160,7 +3160,7 @@
       "cell_set_accession": "CS202106160_39",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "39_Sncg",
         "cell_set_designation": "CTX-HPF 039",
@@ -3178,7 +3178,7 @@
       "cell_set_accession": "CS202106160_281",
       "parent_cell_set_name": "L6 CT CTX",
       "parent_cell_set_accession": "CS202106160_548",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "281_L6 CT CTX",
         "cell_set_designation": "CTX-HPF 281",
@@ -3196,7 +3196,7 @@
       "cell_set_accession": "CS202106160_111",
       "parent_cell_set_name": "Pvalb",
       "parent_cell_set_accession": "CS202106160_463",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "111_Pvalb",
         "cell_set_designation": "CTX-HPF 111",
@@ -3214,7 +3214,7 @@
       "cell_set_accession": "CS202106160_213",
       "parent_cell_set_name": "L5/6 IT TPE-ENT",
       "parent_cell_set_accession": "subclass_label:753888bc28",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "213_L5/6 IT TPE-ENT",
         "cell_set_designation": "CTX-HPF 213",
@@ -3232,7 +3232,7 @@
       "cell_set_accession": "CS202106160_58",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "58_Vip Igfbp6",
         "cell_set_designation": "CTX-HPF 058",
@@ -3250,7 +3250,7 @@
       "cell_set_accession": "CS202106160_193",
       "parent_cell_set_name": "L4/5 IT CTX",
       "parent_cell_set_accession": "subclass_label:40ec201664",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "193_L4/5 IT CTX",
         "cell_set_designation": "CTX-HPF 193",
@@ -3268,7 +3268,7 @@
       "cell_set_accession": "CS202106160_323",
       "parent_cell_set_name": "SUB-ProS",
       "parent_cell_set_accession": "subclass_label:a416c5553f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "323_ProS",
         "cell_set_designation": "CTX-HPF 323",
@@ -3286,7 +3286,7 @@
       "cell_set_accession": "CS202106160_333",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "333_CA1-ProS",
         "cell_set_designation": "CTX-HPF 333",
@@ -3304,7 +3304,7 @@
       "cell_set_accession": "CS202106160_132",
       "parent_cell_set_name": "L2/3 IT PPP",
       "parent_cell_set_accession": "subclass_label:5d7a3b937f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "132_L2 IT RSPv-POST-PRE",
         "cell_set_designation": "CTX-HPF 132",
@@ -3322,7 +3322,7 @@
       "cell_set_accession": "CS202106160_269",
       "parent_cell_set_name": "L5/6 NP CTX",
       "parent_cell_set_accession": "CS202106160_538",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "269_L5/6 NP CTX",
         "cell_set_designation": "CTX-HPF 269",
@@ -3340,7 +3340,7 @@
       "cell_set_accession": "CS202106160_244",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "244_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 244",
@@ -3358,7 +3358,7 @@
       "cell_set_accession": "CS202106160_301",
       "parent_cell_set_name": "L6b/CT ENT",
       "parent_cell_set_accession": "subclass_label:d636443977",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "301_L6b ENT",
         "cell_set_designation": "CTX-HPF 301",
@@ -3376,7 +3376,7 @@
       "cell_set_accession": "CS202106160_86",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "86_Sst",
         "cell_set_designation": "CTX-HPF 086",
@@ -3394,7 +3394,7 @@
       "cell_set_accession": "CS202106160_228",
       "parent_cell_set_name": "L6 IT CTX",
       "parent_cell_set_accession": "subclass_label:10db4e9506",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "228_L6 IT CTX",
         "cell_set_designation": "CTX-HPF 228",
@@ -3412,7 +3412,7 @@
       "cell_set_accession": "CS202106160_44",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "44_Vip",
         "cell_set_designation": "CTX-HPF 044",
@@ -3430,7 +3430,7 @@
       "cell_set_accession": "CS202106160_256",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "256_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 256",
@@ -3448,7 +3448,7 @@
       "cell_set_accession": "CS202106160_125",
       "parent_cell_set_name": "L2/3 IT PPP",
       "parent_cell_set_accession": "subclass_label:5d7a3b937f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "125_L2 IT APr",
         "cell_set_designation": "CTX-HPF 125",
@@ -3466,7 +3466,7 @@
       "cell_set_accession": "CS202106160_196",
       "parent_cell_set_name": "L5 IT CTX",
       "parent_cell_set_accession": "subclass_label:d88cf82cba",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "196_L5 IT CTX",
         "cell_set_designation": "CTX-HPF 196",
@@ -3484,7 +3484,7 @@
       "cell_set_accession": "CS202106160_166",
       "parent_cell_set_name": "L2/3 IT CTX",
       "parent_cell_set_accession": "CS202106160_494",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "166_L2/3 IT CTX",
         "cell_set_designation": "CTX-HPF 166",
@@ -3502,7 +3502,7 @@
       "cell_set_accession": "CS202106160_260",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "260_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 260",
@@ -3520,7 +3520,7 @@
       "cell_set_accession": "CS202106160_121",
       "parent_cell_set_name": "Pvalb",
       "parent_cell_set_accession": "CS202106160_463",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "121_Pvalb",
         "cell_set_designation": "CTX-HPF 121",
@@ -3538,7 +3538,7 @@
       "cell_set_accession": "CS202106160_2",
       "parent_cell_set_name": "Meis2",
       "parent_cell_set_accession": "CS202106160_396",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "2_Meis2",
         "cell_set_designation": "CTX-HPF 002",
@@ -3556,7 +3556,7 @@
       "cell_set_accession": "CS202106160_379",
       "parent_cell_set_name": "Endo",
       "parent_cell_set_accession": "subclass_label:f5fad7e30c",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "379_Endo",
         "cell_set_designation": "CTX-HPF 379",
@@ -3574,7 +3574,7 @@
       "cell_set_accession": "CS202106160_112",
       "parent_cell_set_name": "Pvalb",
       "parent_cell_set_accession": "CS202106160_463",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "112_Pvalb",
         "cell_set_designation": "CTX-HPF 112",
@@ -3592,7 +3592,7 @@
       "cell_set_accession": "CS202106160_76",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "76_Sst",
         "cell_set_designation": "CTX-HPF 076",
@@ -3610,7 +3610,7 @@
       "cell_set_accession": "CS202106160_177",
       "parent_cell_set_name": "L2/3 IT RHP",
       "parent_cell_set_accession": "CS202106160_498",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "177_IT HATA",
         "cell_set_designation": "CTX-HPF 177",
@@ -3628,7 +3628,7 @@
       "cell_set_accession": "CS202106160_53",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "53_Vip",
         "cell_set_designation": "CTX-HPF 053",
@@ -3646,7 +3646,7 @@
       "cell_set_accession": "CS202106160_220",
       "parent_cell_set_name": "L6 IT CTX",
       "parent_cell_set_accession": "subclass_label:10db4e9506",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "220_L6 IT CTX",
         "cell_set_designation": "CTX-HPF 220",
@@ -3664,7 +3664,7 @@
       "cell_set_accession": "CS202106160_335",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "335_CA1-ve",
         "cell_set_designation": "CTX-HPF 335",
@@ -3682,7 +3682,7 @@
       "cell_set_accession": "CS202106160_242",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "242_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 242",
@@ -3700,7 +3700,7 @@
       "cell_set_accession": "CS202106160_354",
       "parent_cell_set_name": "CA3",
       "parent_cell_set_accession": "CS202106160_578",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "354_CA3-ve",
         "cell_set_designation": "CTX-HPF 354",
@@ -3718,7 +3718,7 @@
       "cell_set_accession": "CS202106160_164",
       "parent_cell_set_name": "L2/3 IT CTX",
       "parent_cell_set_accession": "CS202106160_494",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "164_L2/3 IT CTX",
         "cell_set_designation": "CTX-HPF 164",
@@ -3736,7 +3736,7 @@
       "cell_set_accession": "CS202106160_88",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "88_Sst",
         "cell_set_designation": "CTX-HPF 088",
@@ -3754,7 +3754,7 @@
       "cell_set_accession": "CS202106160_257",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "257_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 257",
@@ -3772,7 +3772,7 @@
       "cell_set_accession": "CS202106160_276",
       "parent_cell_set_name": "NP PPP",
       "parent_cell_set_accession": "CS202106160_544",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "276_NP PPP",
         "cell_set_designation": "CTX-HPF 276",
@@ -3790,7 +3790,7 @@
       "cell_set_accession": "CS202106160_73",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "73_Sst",
         "cell_set_designation": "CTX-HPF 073",
@@ -3808,7 +3808,7 @@
       "cell_set_accession": "CS202106160_120",
       "parent_cell_set_name": "Pvalb",
       "parent_cell_set_accession": "CS202106160_463",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "120_Pvalb",
         "cell_set_designation": "CTX-HPF 120",
@@ -3826,7 +3826,7 @@
       "cell_set_accession": "CS202106160_266",
       "parent_cell_set_name": "L5/6 NP CTX",
       "parent_cell_set_accession": "CS202106160_538",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "266_L5/6 NP CTX",
         "cell_set_designation": "CTX-HPF 266",
@@ -3844,7 +3844,7 @@
       "cell_set_accession": "CS202106160_227",
       "parent_cell_set_name": "L6 IT CTX",
       "parent_cell_set_accession": "subclass_label:10db4e9506",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "227_L6 IT CTX",
         "cell_set_designation": "CTX-HPF 227",
@@ -3862,7 +3862,7 @@
       "cell_set_accession": "CS202106160_349",
       "parent_cell_set_name": "CA3",
       "parent_cell_set_accession": "CS202106160_578",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "349_Mossy",
         "cell_set_designation": "CTX-HPF 349",
@@ -3880,7 +3880,7 @@
       "cell_set_accession": "CS202106160_205",
       "parent_cell_set_name": "L5 IT CTX",
       "parent_cell_set_accession": "subclass_label:d88cf82cba",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "205_L5/6 IT CTX",
         "cell_set_designation": "CTX-HPF 205",
@@ -3898,7 +3898,7 @@
       "cell_set_accession": "CS202106160_305",
       "parent_cell_set_name": "L6b CTX",
       "parent_cell_set_accession": "subclass_label:8fb647662f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "305_L6b CTX",
         "cell_set_designation": "CTX-HPF 305",
@@ -3916,7 +3916,7 @@
       "cell_set_accession": "CS202106160_274",
       "parent_cell_set_name": "NP SUB",
       "parent_cell_set_accession": "CS202106160_541",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "274_NP SUB",
         "cell_set_designation": "CTX-HPF 274",
@@ -3934,7 +3934,7 @@
       "cell_set_accession": "CS202106160_270",
       "parent_cell_set_name": "L5/6 NP CTX",
       "parent_cell_set_accession": "CS202106160_538",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "270_L5/6 NP CT CTX",
         "cell_set_designation": "CTX-HPF 270",
@@ -3952,7 +3952,7 @@
       "cell_set_accession": "CS202106160_234",
       "parent_cell_set_name": "L6 IT ENTl",
       "parent_cell_set_accession": "subclass_label:7ec93c83f4",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "234_L6 IT ENTl",
         "cell_set_designation": "CTX-HPF 234",
@@ -3970,7 +3970,7 @@
       "cell_set_accession": "CS202106160_167",
       "parent_cell_set_name": "L2/3 IT CTX",
       "parent_cell_set_accession": "CS202106160_494",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "167_L2/3 IT CTX",
         "cell_set_designation": "CTX-HPF 167",
@@ -3988,7 +3988,7 @@
       "cell_set_accession": "CS202106160_219",
       "parent_cell_set_name": "L6 IT CTX",
       "parent_cell_set_accession": "subclass_label:10db4e9506",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "219_L6 IT CTX",
         "cell_set_designation": "CTX-HPF 219",
@@ -4006,7 +4006,7 @@
       "cell_set_accession": "CS202106160_178",
       "parent_cell_set_name": "L4/5 IT CTX",
       "parent_cell_set_accession": "subclass_label:40ec201664",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "178_L4 IT CTX",
         "cell_set_designation": "CTX-HPF 178",
@@ -4024,7 +4024,7 @@
       "cell_set_accession": "CS202106160_237",
       "parent_cell_set_name": "Car3",
       "parent_cell_set_accession": "CS202106160_525",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "237_Car3",
         "cell_set_designation": "CTX-HPF 237",
@@ -4042,7 +4042,7 @@
       "cell_set_accession": "CS202106160_79",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "79_Sst",
         "cell_set_designation": "CTX-HPF 079",
@@ -4060,7 +4060,7 @@
       "cell_set_accession": "CS202106160_247",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "247_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 247",
@@ -4078,7 +4078,7 @@
       "cell_set_accession": "CS202106160_160",
       "parent_cell_set_name": "L2/3 IT ENTl",
       "parent_cell_set_accession": "subclass_label:9c706e279e",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "160_L2/3 IT ENTl",
         "cell_set_designation": "CTX-HPF 160",
@@ -4096,7 +4096,7 @@
       "cell_set_accession": "CS202106160_115",
       "parent_cell_set_name": "Pvalb",
       "parent_cell_set_accession": "CS202106160_463",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "115_Pvalb",
         "cell_set_designation": "CTX-HPF 115",
@@ -4114,7 +4114,7 @@
       "cell_set_accession": "CS202106160_348",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "348_CA1-do",
         "cell_set_designation": "CTX-HPF 348",
@@ -4132,7 +4132,7 @@
       "cell_set_accession": "CS202106160_226",
       "parent_cell_set_name": "L6 IT CTX",
       "parent_cell_set_accession": "subclass_label:10db4e9506",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "226_L6 IT CTX",
         "cell_set_designation": "CTX-HPF 226",
@@ -4150,7 +4150,7 @@
       "cell_set_accession": "CS202106160_185",
       "parent_cell_set_name": "L4/5 IT CTX",
       "parent_cell_set_accession": "subclass_label:40ec201664",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "185_L4/5 IT CTX",
         "cell_set_designation": "CTX-HPF 185",
@@ -4168,7 +4168,7 @@
       "cell_set_accession": "CS202106160_192",
       "parent_cell_set_name": "L4/5 IT CTX",
       "parent_cell_set_accession": "subclass_label:40ec201664",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "192_L4/5 IT CTX",
         "cell_set_designation": "CTX-HPF 192",
@@ -4186,7 +4186,7 @@
       "cell_set_accession": "CS202106160_179",
       "parent_cell_set_name": "L4/5 IT CTX",
       "parent_cell_set_accession": "subclass_label:40ec201664",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "179_L4 IT CTX",
         "cell_set_designation": "CTX-HPF 179",
@@ -4204,7 +4204,7 @@
       "cell_set_accession": "CS202106160_169",
       "parent_cell_set_name": "L2/3 IT CTX",
       "parent_cell_set_accession": "CS202106160_494",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "169_L2/3 IT CTX",
         "cell_set_designation": "CTX-HPF 169",
@@ -4222,7 +4222,7 @@
       "cell_set_accession": "CS202106160_24",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "24_Sncg",
         "cell_set_designation": "CTX-HPF 024",
@@ -4240,7 +4240,7 @@
       "cell_set_accession": "CS202106160_326",
       "parent_cell_set_name": "SUB-ProS",
       "parent_cell_set_accession": "subclass_label:a416c5553f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "326_ProS",
         "cell_set_designation": "CTX-HPF 326",
@@ -4258,7 +4258,7 @@
       "cell_set_accession": "CS202106160_245",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "245_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 245",
@@ -4276,7 +4276,7 @@
       "cell_set_accession": "CS202106160_66",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "66_Sst",
         "cell_set_designation": "CTX-HPF 066",
@@ -4294,7 +4294,7 @@
       "cell_set_accession": "CS202106160_324",
       "parent_cell_set_name": "SUB-ProS",
       "parent_cell_set_accession": "subclass_label:a416c5553f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "324_ProS",
         "cell_set_designation": "CTX-HPF 324",
@@ -4312,7 +4312,7 @@
       "cell_set_accession": "CS202106160_63",
       "parent_cell_set_name": "Sst Chodl",
       "parent_cell_set_accession": "CS202106160_441",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "63_Sst Chodl",
         "cell_set_designation": "CTX-HPF 063",
@@ -4330,7 +4330,7 @@
       "cell_set_accession": "CS202106160_332",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "332_CA1-ProS",
         "cell_set_designation": "CTX-HPF 332",
@@ -4348,7 +4348,7 @@
       "cell_set_accession": "CS202106160_331",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "331_CA1-ProS",
         "cell_set_designation": "CTX-HPF 331",
@@ -4366,7 +4366,7 @@
       "cell_set_accession": "CS202106160_122",
       "parent_cell_set_name": "Pvalb",
       "parent_cell_set_accession": "CS202106160_463",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "122_Pvalb Vipr2",
         "cell_set_designation": "CTX-HPF 122",
@@ -4384,7 +4384,7 @@
       "cell_set_accession": "CS202106160_10",
       "parent_cell_set_name": "Lamp5",
       "parent_cell_set_accession": "subclass_label:e40986e2c0",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "10_Lamp5",
         "cell_set_designation": "CTX-HPF 010",
@@ -4402,7 +4402,7 @@
       "cell_set_accession": "CS202106160_211",
       "parent_cell_set_name": "L5/6 IT TPE-ENT",
       "parent_cell_set_accession": "subclass_label:753888bc28",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "211_L5/6 IT TPE-ENT",
         "cell_set_designation": "CTX-HPF 211",
@@ -4420,7 +4420,7 @@
       "cell_set_accession": "CS202106160_130",
       "parent_cell_set_name": "L2/3 IT PPP",
       "parent_cell_set_accession": "subclass_label:5d7a3b937f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "130_L2/3 IT POST-PRE",
         "cell_set_designation": "CTX-HPF 130",
@@ -4438,7 +4438,7 @@
       "cell_set_accession": "CS202106160_174",
       "parent_cell_set_name": "L2/3 IT RHP",
       "parent_cell_set_accession": "CS202106160_498",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "174_IT HATA",
         "cell_set_designation": "CTX-HPF 174",
@@ -4456,7 +4456,7 @@
       "cell_set_accession": "CS202106160_80",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "80_Sst",
         "cell_set_designation": "CTX-HPF 080",
@@ -4474,7 +4474,7 @@
       "cell_set_accession": "CS202106160_158",
       "parent_cell_set_name": "L2/3 IT ENTl",
       "parent_cell_set_accession": "subclass_label:9c706e279e",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "158_L2/3 IT AI",
         "cell_set_designation": "CTX-HPF 158",
@@ -4492,7 +4492,7 @@
       "cell_set_accession": "CS202106160_255",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "255_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 255",
@@ -4510,7 +4510,7 @@
       "cell_set_accession": "CS202106160_15",
       "parent_cell_set_name": "Lamp5",
       "parent_cell_set_accession": "subclass_label:e40986e2c0",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "15_Lamp5",
         "cell_set_designation": "CTX-HPF 015",
@@ -4528,7 +4528,7 @@
       "cell_set_accession": "CS202106160_139",
       "parent_cell_set_name": "L3 IT ENT",
       "parent_cell_set_accession": "CS202106160_480",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "139_L3 IT ENTl",
         "cell_set_designation": "CTX-HPF 139",
@@ -4546,7 +4546,7 @@
       "cell_set_accession": "CS202106160_45",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "45_Vip",
         "cell_set_designation": "CTX-HPF 045",
@@ -4564,7 +4564,7 @@
       "cell_set_accession": "CS202106160_47",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "47_Vip",
         "cell_set_designation": "CTX-HPF 047",
@@ -4582,7 +4582,7 @@
       "cell_set_accession": "CS202106160_30",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "30_Ntng1 HPF",
         "cell_set_designation": "CTX-HPF 030",
@@ -4600,7 +4600,7 @@
       "cell_set_accession": "CS202106160_288",
       "parent_cell_set_name": "L6 CT CTX",
       "parent_cell_set_accession": "CS202106160_548",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "288_L6 CT CTX",
         "cell_set_designation": "CTX-HPF 288",
@@ -4618,7 +4618,7 @@
       "cell_set_accession": "CS202106160_52",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "52_Vip",
         "cell_set_designation": "CTX-HPF 052",
@@ -4636,7 +4636,7 @@
       "cell_set_accession": "CS202106160_32",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "32_Sncg",
         "cell_set_designation": "CTX-HPF 032",
@@ -4654,7 +4654,7 @@
       "cell_set_accession": "CS202106160_90",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "90_Sst",
         "cell_set_designation": "CTX-HPF 090",
@@ -4672,7 +4672,7 @@
       "cell_set_accession": "CS202106160_154",
       "parent_cell_set_name": "L2/3 IT ENTl",
       "parent_cell_set_accession": "subclass_label:9c706e279e",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "154_L2/3 IT ENTl",
         "cell_set_designation": "CTX-HPF 154",
@@ -4690,7 +4690,7 @@
       "cell_set_accession": "CS202106160_4",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "4_Meis2 HPF",
         "cell_set_designation": "CTX-HPF 004",
@@ -4708,7 +4708,7 @@
       "cell_set_accession": "CS202106160_371",
       "parent_cell_set_name": "Oligo",
       "parent_cell_set_accession": "subclass_label:3deb6c773a",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "371_Oligo",
         "cell_set_designation": "CTX-HPF 371",
@@ -4726,7 +4726,7 @@
       "cell_set_accession": "CS202106160_157",
       "parent_cell_set_name": "L2/3 IT ENTl",
       "parent_cell_set_accession": "subclass_label:9c706e279e",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "157_L2/3 IT ENTl",
         "cell_set_designation": "CTX-HPF 157",
@@ -4744,7 +4744,7 @@
       "cell_set_accession": "CS202106160_310",
       "parent_cell_set_name": "L6b CTX",
       "parent_cell_set_accession": "subclass_label:8fb647662f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "310_L6b RHP",
         "cell_set_designation": "CTX-HPF 310",
@@ -4762,7 +4762,7 @@
       "cell_set_accession": "CS202106160_252",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "252_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 252",
@@ -4780,7 +4780,7 @@
       "cell_set_accession": "CS202106160_37",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "37_Sncg",
         "cell_set_designation": "CTX-HPF 037",
@@ -4798,7 +4798,7 @@
       "cell_set_accession": "CS202106160_283",
       "parent_cell_set_name": "L6 CT CTX",
       "parent_cell_set_accession": "CS202106160_548",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "283_L6 CT CTX",
         "cell_set_designation": "CTX-HPF 283",
@@ -4816,7 +4816,7 @@
       "cell_set_accession": "CS202106160_352",
       "parent_cell_set_name": "CA3",
       "parent_cell_set_accession": "CS202106160_578",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "352_CA3-ve",
         "cell_set_designation": "CTX-HPF 352",
@@ -4834,7 +4834,7 @@
       "cell_set_accession": "CS202106160_258",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "258_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 258",
@@ -4852,7 +4852,7 @@
       "cell_set_accession": "CS202106160_364",
       "parent_cell_set_name": "DG",
       "parent_cell_set_accession": "CS202106160_586",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "364_DG",
         "cell_set_designation": "CTX-HPF 364",
@@ -4870,7 +4870,7 @@
       "cell_set_accession": "CS202106160_246",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "246_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 246",
@@ -4888,7 +4888,7 @@
       "cell_set_accession": "CS202106160_315",
       "parent_cell_set_name": "L6b CTX",
       "parent_cell_set_accession": "subclass_label:8fb647662f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "315_L6b CTX",
         "cell_set_designation": "CTX-HPF 315",
@@ -4906,7 +4906,7 @@
       "cell_set_accession": "CS202106160_56",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "56_Vip HPF",
         "cell_set_designation": "CTX-HPF 056",
@@ -4924,7 +4924,7 @@
       "cell_set_accession": "CS202106160_277",
       "parent_cell_set_name": "NP PPP",
       "parent_cell_set_accession": "CS202106160_544",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "277_NP PPP",
         "cell_set_designation": "CTX-HPF 277",
@@ -4942,7 +4942,7 @@
       "cell_set_accession": "CS202106160_163",
       "parent_cell_set_name": "L2/3 IT CTX",
       "parent_cell_set_accession": "CS202106160_494",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "163_L2/3 IT CTX",
         "cell_set_designation": "CTX-HPF 163",
@@ -4960,7 +4960,7 @@
       "cell_set_accession": "CS202106160_188",
       "parent_cell_set_name": "L4/5 IT CTX",
       "parent_cell_set_accession": "subclass_label:40ec201664",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "188_L4/5 IT CTX",
         "cell_set_designation": "CTX-HPF 188",
@@ -4978,7 +4978,7 @@
       "cell_set_accession": "CS202106160_337",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "337_CA1",
         "cell_set_designation": "CTX-HPF 337",
@@ -4996,7 +4996,7 @@
       "cell_set_accession": "CS202106160_375",
       "parent_cell_set_name": "Oligo",
       "parent_cell_set_accession": "subclass_label:3deb6c773a",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "375_Oligo",
         "cell_set_designation": "CTX-HPF 375",
@@ -5014,7 +5014,7 @@
       "cell_set_accession": "CS202106160_307",
       "parent_cell_set_name": "L6b CTX",
       "parent_cell_set_accession": "subclass_label:8fb647662f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "307_L6b CTX",
         "cell_set_designation": "CTX-HPF 307",
@@ -5032,7 +5032,7 @@
       "cell_set_accession": "CS202106160_113",
       "parent_cell_set_name": "Pvalb",
       "parent_cell_set_accession": "CS202106160_463",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "113_Pvalb",
         "cell_set_designation": "CTX-HPF 113",
@@ -5050,7 +5050,7 @@
       "cell_set_accession": "CS202106160_359",
       "parent_cell_set_name": "CA2-IG-FC",
       "parent_cell_set_accession": "CS202106160_585",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "359_CA2-IG-FC",
         "cell_set_designation": "CTX-HPF 359",
@@ -5068,7 +5068,7 @@
       "cell_set_accession": "CS202106160_321",
       "parent_cell_set_name": "SUB-ProS",
       "parent_cell_set_accession": "subclass_label:a416c5553f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "321_SUB",
         "cell_set_designation": "CTX-HPF 321",
@@ -5086,7 +5086,7 @@
       "cell_set_accession": "CS202106160_23",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "23_Sncg",
         "cell_set_designation": "CTX-HPF 023",
@@ -5104,7 +5104,7 @@
       "cell_set_accession": "CS202106160_224",
       "parent_cell_set_name": "L6 IT CTX",
       "parent_cell_set_accession": "subclass_label:10db4e9506",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "224_L6 IT CTX",
         "cell_set_designation": "CTX-HPF 224",
@@ -5122,7 +5122,7 @@
       "cell_set_accession": "CS202106160_75",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "75_Sst",
         "cell_set_designation": "CTX-HPF 075",
@@ -5140,7 +5140,7 @@
       "cell_set_accession": "CS202106160_119",
       "parent_cell_set_name": "Pvalb",
       "parent_cell_set_accession": "CS202106160_463",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "119_Pvalb",
         "cell_set_designation": "CTX-HPF 119",
@@ -5158,7 +5158,7 @@
       "cell_set_accession": "CS202106160_265",
       "parent_cell_set_name": "L5/6 NP CTX",
       "parent_cell_set_accession": "CS202106160_538",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "265_L5/6 NP CTX",
         "cell_set_designation": "CTX-HPF 265",
@@ -5176,7 +5176,7 @@
       "cell_set_accession": "CS202106160_102",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "102_Sst HPF",
         "cell_set_designation": "CTX-HPF 102",
@@ -5194,7 +5194,7 @@
       "cell_set_accession": "CS202106160_286",
       "parent_cell_set_name": "L6 CT CTX",
       "parent_cell_set_accession": "CS202106160_548",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "286_L6 CT CTX",
         "cell_set_designation": "CTX-HPF 286",
@@ -5212,7 +5212,7 @@
       "cell_set_accession": "CS202106160_195",
       "parent_cell_set_name": "L5 IT CTX",
       "parent_cell_set_accession": "subclass_label:d88cf82cba",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "195_L5 IT RSP-ACA",
         "cell_set_designation": "CTX-HPF 195",
@@ -5230,7 +5230,7 @@
       "cell_set_accession": "CS202106160_232",
       "parent_cell_set_name": "L6 IT CTX",
       "parent_cell_set_accession": "subclass_label:10db4e9506",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "232_L6 IT CTX",
         "cell_set_designation": "CTX-HPF 232",
@@ -5248,7 +5248,7 @@
       "cell_set_accession": "CS202106160_198",
       "parent_cell_set_name": "L5 IT CTX",
       "parent_cell_set_accession": "subclass_label:d88cf82cba",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "198_L5 IT CTX",
         "cell_set_designation": "CTX-HPF 198",
@@ -5266,7 +5266,7 @@
       "cell_set_accession": "CS202106160_254",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "254_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 254",
@@ -5284,7 +5284,7 @@
       "cell_set_accession": "CS202106160_189",
       "parent_cell_set_name": "L4/5 IT CTX",
       "parent_cell_set_accession": "subclass_label:40ec201664",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "189_L4/5 IT CTX",
         "cell_set_designation": "CTX-HPF 189",
@@ -5302,7 +5302,7 @@
       "cell_set_accession": "CS202106160_151",
       "parent_cell_set_name": "L2 IT ENTl",
       "parent_cell_set_accession": "subclass_label:ad2ac45237",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "151_L2 IT ENTl",
         "cell_set_designation": "CTX-HPF 151",
@@ -5320,7 +5320,7 @@
       "cell_set_accession": "CS202106160_40",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "40_Vip",
         "cell_set_designation": "CTX-HPF 040",
@@ -5338,7 +5338,7 @@
       "cell_set_accession": "CS202106160_98",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "98_Sst",
         "cell_set_designation": "CTX-HPF 098",
@@ -5356,7 +5356,7 @@
       "cell_set_accession": "CS202106160_282",
       "parent_cell_set_name": "L6 CT CTX",
       "parent_cell_set_accession": "CS202106160_548",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "282_L6 CT CTX",
         "cell_set_designation": "CTX-HPF 282",
@@ -5374,7 +5374,7 @@
       "cell_set_accession": "CS202106160_100",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "100_Sst",
         "cell_set_designation": "CTX-HPF 100",
@@ -5392,7 +5392,7 @@
       "cell_set_accession": "CS202106160_299",
       "parent_cell_set_name": "L6b/CT ENT",
       "parent_cell_set_accession": "subclass_label:d636443977",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "299_L6 CT ENT",
         "cell_set_designation": "CTX-HPF 299",
@@ -5410,7 +5410,7 @@
       "cell_set_accession": "CS202106160_330",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "330_CA1-ProS",
         "cell_set_designation": "CTX-HPF 330",
@@ -5428,7 +5428,7 @@
       "cell_set_accession": "CS202106160_143",
       "parent_cell_set_name": "L2/3 IT PPP",
       "parent_cell_set_accession": "subclass_label:5d7a3b937f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "143_L2/3 IT PAR",
         "cell_set_designation": "CTX-HPF 143",
@@ -5446,7 +5446,7 @@
       "cell_set_accession": "CS202106160_69",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "69_Sst",
         "cell_set_designation": "CTX-HPF 069",
@@ -5464,7 +5464,7 @@
       "cell_set_accession": "CS202106160_231",
       "parent_cell_set_name": "L6 IT CTX",
       "parent_cell_set_accession": "subclass_label:10db4e9506",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "231_L6 IT CTX",
         "cell_set_designation": "CTX-HPF 231",
@@ -5482,7 +5482,7 @@
       "cell_set_accession": "CS202106160_298",
       "parent_cell_set_name": "L6b/CT ENT",
       "parent_cell_set_accession": "subclass_label:d636443977",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "298_L6 CT ENT",
         "cell_set_designation": "CTX-HPF 298",
@@ -5500,7 +5500,7 @@
       "cell_set_accession": "CS202106160_316",
       "parent_cell_set_name": "L6b CTX",
       "parent_cell_set_accession": "subclass_label:8fb647662f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "316_L6b CTX",
         "cell_set_designation": "CTX-HPF 316",
@@ -5518,7 +5518,7 @@
       "cell_set_accession": "CS202106160_361",
       "parent_cell_set_name": "DG",
       "parent_cell_set_accession": "CS202106160_586",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "361_DG",
         "cell_set_designation": "CTX-HPF 361",
@@ -5536,7 +5536,7 @@
       "cell_set_accession": "CS202106160_116",
       "parent_cell_set_name": "Pvalb",
       "parent_cell_set_accession": "CS202106160_463",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "116_Pvalb",
         "cell_set_designation": "CTX-HPF 116",
@@ -5554,7 +5554,7 @@
       "cell_set_accession": "CS202106160_334",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "334_CA1-ve",
         "cell_set_designation": "CTX-HPF 334",
@@ -5572,7 +5572,7 @@
       "cell_set_accession": "CS202106160_180",
       "parent_cell_set_name": "L4/5 IT CTX",
       "parent_cell_set_accession": "subclass_label:40ec201664",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "180_L4 IT CTX",
         "cell_set_designation": "CTX-HPF 180",
@@ -5590,7 +5590,7 @@
       "cell_set_accession": "CS202106160_107",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "107_Sst HPF",
         "cell_set_designation": "CTX-HPF 107",
@@ -5608,7 +5608,7 @@
       "cell_set_accession": "CS202106160_6",
       "parent_cell_set_name": "Lamp5",
       "parent_cell_set_accession": "subclass_label:e40986e2c0",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "6_Lamp5 Lhx6",
         "cell_set_designation": "CTX-HPF 006",
@@ -5626,7 +5626,7 @@
       "cell_set_accession": "CS202106160_197",
       "parent_cell_set_name": "L5 IT CTX",
       "parent_cell_set_accession": "subclass_label:d88cf82cba",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "197_L5 IT CTX",
         "cell_set_designation": "CTX-HPF 197",
@@ -5644,7 +5644,7 @@
       "cell_set_accession": "CS202106160_184",
       "parent_cell_set_name": "L4/5 IT CTX",
       "parent_cell_set_accession": "subclass_label:40ec201664",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "184_L4/5 IT CTX",
         "cell_set_designation": "CTX-HPF 184",
@@ -5662,7 +5662,7 @@
       "cell_set_accession": "CS202106160_262",
       "parent_cell_set_name": "L4 RSP-ACA",
       "parent_cell_set_accession": "CS202106160_535",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "262_L4 RSP-ACA",
         "cell_set_designation": "CTX-HPF 262",
@@ -5680,7 +5680,7 @@
       "cell_set_accession": "CS202106160_85",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "85_Sst",
         "cell_set_designation": "CTX-HPF 085",
@@ -5698,7 +5698,7 @@
       "cell_set_accession": "CS202106160_74",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "74_Sst",
         "cell_set_designation": "CTX-HPF 074",
@@ -5716,7 +5716,7 @@
       "cell_set_accession": "CS202106160_20",
       "parent_cell_set_name": "Lamp5",
       "parent_cell_set_accession": "subclass_label:e40986e2c0",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "20_Pax6",
         "cell_set_designation": "CTX-HPF 020",
@@ -5734,7 +5734,7 @@
       "cell_set_accession": "CS202106160_126",
       "parent_cell_set_name": "L2/3 IT PPP",
       "parent_cell_set_accession": "subclass_label:5d7a3b937f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "126_L2 IT APr",
         "cell_set_designation": "CTX-HPF 126",
@@ -5752,7 +5752,7 @@
       "cell_set_accession": "CS202106160_325",
       "parent_cell_set_name": "SUB-ProS",
       "parent_cell_set_accession": "subclass_label:a416c5553f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "325_ProS",
         "cell_set_designation": "CTX-HPF 325",
@@ -5770,7 +5770,7 @@
       "cell_set_accession": "CS202106160_268",
       "parent_cell_set_name": "L5/6 NP CTX",
       "parent_cell_set_accession": "CS202106160_538",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "268_L5/6 NP CTX",
         "cell_set_designation": "CTX-HPF 268",
@@ -5788,7 +5788,7 @@
       "cell_set_accession": "CS202106160_225",
       "parent_cell_set_name": "L6 IT CTX",
       "parent_cell_set_accession": "subclass_label:10db4e9506",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "225_L6 IT CTX",
         "cell_set_designation": "CTX-HPF 225",
@@ -5806,7 +5806,7 @@
       "cell_set_accession": "CS202106160_214",
       "parent_cell_set_name": "L5/6 IT TPE-ENT",
       "parent_cell_set_accession": "subclass_label:753888bc28",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "214_L5/6 IT PFC",
         "cell_set_designation": "CTX-HPF 214",
@@ -5824,7 +5824,7 @@
       "cell_set_accession": "CS202106160_291",
       "parent_cell_set_name": "L6 CT CTX",
       "parent_cell_set_accession": "CS202106160_548",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "291_L6 CT CTX",
         "cell_set_designation": "CTX-HPF 291",
@@ -5842,7 +5842,7 @@
       "cell_set_accession": "CS202106160_65",
       "parent_cell_set_name": "Sst Chodl",
       "parent_cell_set_accession": "CS202106160_441",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "65_Sst Chodl",
         "cell_set_designation": "CTX-HPF 065",
@@ -5860,7 +5860,7 @@
       "cell_set_accession": "CS202106160_303",
       "parent_cell_set_name": "L6b CTX",
       "parent_cell_set_accession": "subclass_label:8fb647662f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "303_L6b CTX",
         "cell_set_designation": "CTX-HPF 303",
@@ -5878,7 +5878,7 @@
       "cell_set_accession": "CS202106160_306",
       "parent_cell_set_name": "L6b CTX",
       "parent_cell_set_accession": "subclass_label:8fb647662f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "306_L6b CTX",
         "cell_set_designation": "CTX-HPF 306",
@@ -5896,7 +5896,7 @@
       "cell_set_accession": "CS202106160_173",
       "parent_cell_set_name": "L2/3 IT RHP",
       "parent_cell_set_accession": "CS202106160_498",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "173_L2/3 IT ProS",
         "cell_set_designation": "CTX-HPF 173",
@@ -5914,7 +5914,7 @@
       "cell_set_accession": "CS202106160_176",
       "parent_cell_set_name": "L2/3 IT RHP",
       "parent_cell_set_accession": "CS202106160_498",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "176_IT HATA",
         "cell_set_designation": "CTX-HPF 176",
@@ -5932,7 +5932,7 @@
       "cell_set_accession": "CS202106160_216",
       "parent_cell_set_name": "L5/6 IT TPE-ENT",
       "parent_cell_set_accession": "subclass_label:753888bc28",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "216_L5/6 IT TPE-ENT",
         "cell_set_designation": "CTX-HPF 216",
@@ -5950,7 +5950,7 @@
       "cell_set_accession": "CS202106160_153",
       "parent_cell_set_name": "L2/3 IT ENTl",
       "parent_cell_set_accession": "subclass_label:9c706e279e",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "153_L2/3 IT ENTl",
         "cell_set_designation": "CTX-HPF 153",
@@ -5968,7 +5968,7 @@
       "cell_set_accession": "CS202106160_210",
       "parent_cell_set_name": "L5/6 IT TPE-ENT",
       "parent_cell_set_accession": "subclass_label:753888bc28",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "210_L5/6 IT TPE-ENT",
         "cell_set_designation": "CTX-HPF 210",
@@ -5986,7 +5986,7 @@
       "cell_set_accession": "CS202106160_42",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "42_Vip",
         "cell_set_designation": "CTX-HPF 042",
@@ -6004,7 +6004,7 @@
       "cell_set_accession": "CS202106160_96",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "96_Sst",
         "cell_set_designation": "CTX-HPF 096",
@@ -6022,7 +6022,7 @@
       "cell_set_accession": "CS202106160_36",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "36_Sncg",
         "cell_set_designation": "CTX-HPF 036",
@@ -6040,7 +6040,7 @@
       "cell_set_accession": "CS202106160_241",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "241_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 241",
@@ -6058,7 +6058,7 @@
       "cell_set_accession": "CS202106160_92",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "92_Sst",
         "cell_set_designation": "CTX-HPF 092",
@@ -6076,7 +6076,7 @@
       "cell_set_accession": "CS202106160_217",
       "parent_cell_set_name": "L6 IT CTX",
       "parent_cell_set_accession": "subclass_label:10db4e9506",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "217_L6 IT CTX",
         "cell_set_designation": "CTX-HPF 217",
@@ -6094,7 +6094,7 @@
       "cell_set_accession": "CS202106160_109",
       "parent_cell_set_name": "Pvalb",
       "parent_cell_set_accession": "CS202106160_463",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "109_Pvalb",
         "cell_set_designation": "CTX-HPF 109",
@@ -6112,7 +6112,7 @@
       "cell_set_accession": "CS202106160_93",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "93_Sst",
         "cell_set_designation": "CTX-HPF 093",
@@ -6130,7 +6130,7 @@
       "cell_set_accession": "CS202106160_27",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "27_Ntng1 HPF",
         "cell_set_designation": "CTX-HPF 027",
@@ -6148,7 +6148,7 @@
       "cell_set_accession": "CS202106160_28",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "28_Ntng1 HPF",
         "cell_set_designation": "CTX-HPF 028",
@@ -6166,7 +6166,7 @@
       "cell_set_accession": "CS202106160_161",
       "parent_cell_set_name": "L2/3 IT ENTl",
       "parent_cell_set_accession": "subclass_label:9c706e279e",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "161_L2/3 IT ENTl",
         "cell_set_designation": "CTX-HPF 161",
@@ -6184,7 +6184,7 @@
       "cell_set_accession": "CS202106160_309",
       "parent_cell_set_name": "L6b CTX",
       "parent_cell_set_accession": "subclass_label:8fb647662f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "309_L6b RHP",
         "cell_set_designation": "CTX-HPF 309",
@@ -6202,7 +6202,7 @@
       "cell_set_accession": "CS202106160_204",
       "parent_cell_set_name": "L5 IT CTX",
       "parent_cell_set_accession": "subclass_label:d88cf82cba",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "204_L5/6 IT CTX",
         "cell_set_designation": "CTX-HPF 204",
@@ -6220,7 +6220,7 @@
       "cell_set_accession": "CS202106160_118",
       "parent_cell_set_name": "Pvalb",
       "parent_cell_set_accession": "CS202106160_463",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "118_Pvalb",
         "cell_set_designation": "CTX-HPF 118",
@@ -6238,7 +6238,7 @@
       "cell_set_accession": "CS202106160_362",
       "parent_cell_set_name": "DG",
       "parent_cell_set_accession": "CS202106160_586",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "362_DG",
         "cell_set_designation": "CTX-HPF 362",
@@ -6256,7 +6256,7 @@
       "cell_set_accession": "CS202106160_383",
       "parent_cell_set_name": "VLMC",
       "parent_cell_set_accession": "CS202106160_606",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "383_VLMC",
         "cell_set_designation": "CTX-HPF 383",
@@ -6274,7 +6274,7 @@
       "cell_set_accession": "CS202106160_328",
       "parent_cell_set_name": "SUB-ProS",
       "parent_cell_set_accession": "subclass_label:a416c5553f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "328_ProS",
         "cell_set_designation": "CTX-HPF 328",
@@ -6292,7 +6292,7 @@
       "cell_set_accession": "CS202106160_114",
       "parent_cell_set_name": "Pvalb",
       "parent_cell_set_accession": "CS202106160_463",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "114_Pvalb",
         "cell_set_designation": "CTX-HPF 114",
@@ -6310,7 +6310,7 @@
       "cell_set_accession": "CS202106160_147",
       "parent_cell_set_name": "L2 IT ENTm",
       "parent_cell_set_accession": "CS202106160_486",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "147_L2 IT ENTm",
         "cell_set_designation": "CTX-HPF 147",
@@ -6328,7 +6328,7 @@
       "cell_set_accession": "CS202106160_136",
       "parent_cell_set_name": "L3 IT ENT",
       "parent_cell_set_accession": "CS202106160_480",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "136_L3 IT ENTm",
         "cell_set_designation": "CTX-HPF 136",
@@ -6346,7 +6346,7 @@
       "cell_set_accession": "CS202106160_110",
       "parent_cell_set_name": "Pvalb",
       "parent_cell_set_accession": "CS202106160_463",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "110_Pvalb",
         "cell_set_designation": "CTX-HPF 110",
@@ -6364,7 +6364,7 @@
       "cell_set_accession": "CS202106160_240",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "240_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 240",
@@ -6382,7 +6382,7 @@
       "cell_set_accession": "CS202106160_138",
       "parent_cell_set_name": "L3 IT ENT",
       "parent_cell_set_accession": "CS202106160_480",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "138_L3 IT ENTm",
         "cell_set_designation": "CTX-HPF 138",
@@ -6400,7 +6400,7 @@
       "cell_set_accession": "CS202106160_68",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "68_Sst",
         "cell_set_designation": "CTX-HPF 068",
@@ -6418,7 +6418,7 @@
       "cell_set_accession": "CS202106160_187",
       "parent_cell_set_name": "L4/5 IT CTX",
       "parent_cell_set_accession": "subclass_label:40ec201664",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "187_L4/5 IT CTX",
         "cell_set_designation": "CTX-HPF 187",
@@ -6436,7 +6436,7 @@
       "cell_set_accession": "CS202106160_275",
       "parent_cell_set_name": "NP PPP",
       "parent_cell_set_accession": "CS202106160_544",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "275_NP PPP",
         "cell_set_designation": "CTX-HPF 275",
@@ -6454,7 +6454,7 @@
       "cell_set_accession": "CS202106160_302",
       "parent_cell_set_name": "L6b/CT ENT",
       "parent_cell_set_accession": "subclass_label:d636443977",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "302_L6b ENT",
         "cell_set_designation": "CTX-HPF 302",
@@ -6472,7 +6472,7 @@
       "cell_set_accession": "CS202106160_363",
       "parent_cell_set_name": "DG",
       "parent_cell_set_accession": "CS202106160_586",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "363_DG",
         "cell_set_designation": "CTX-HPF 363",
@@ -6490,7 +6490,7 @@
       "cell_set_accession": "CS202106160_29",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "29_Ntng1 HPF",
         "cell_set_designation": "CTX-HPF 029",
@@ -6508,7 +6508,7 @@
       "cell_set_accession": "CS202106160_311",
       "parent_cell_set_name": "L6b CTX",
       "parent_cell_set_accession": "subclass_label:8fb647662f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "311_L6b CTX",
         "cell_set_designation": "CTX-HPF 311",
@@ -6526,7 +6526,7 @@
       "cell_set_accession": "CS202106160_382",
       "parent_cell_set_name": "SMC-Peri",
       "parent_cell_set_accession": "CS202106160_604",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "382_SMC-Peri",
         "cell_set_designation": "CTX-HPF 382",
@@ -6544,7 +6544,7 @@
       "cell_set_accession": "CS202106160_194",
       "parent_cell_set_name": "L5 IT CTX",
       "parent_cell_set_accession": "subclass_label:d88cf82cba",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "194_L5 IT RSP-ACA",
         "cell_set_designation": "CTX-HPF 194",
@@ -6562,7 +6562,7 @@
       "cell_set_accession": "CS202106160_124",
       "parent_cell_set_name": "L2/3 IT PPP",
       "parent_cell_set_accession": "subclass_label:5d7a3b937f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "124_L2 IT APr",
         "cell_set_designation": "CTX-HPF 124",
@@ -6580,7 +6580,7 @@
       "cell_set_accession": "CS202106160_7",
       "parent_cell_set_name": "Lamp5",
       "parent_cell_set_accession": "subclass_label:e40986e2c0",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "7_Lamp5 Lhx6",
         "cell_set_designation": "CTX-HPF 007",
@@ -6598,7 +6598,7 @@
       "cell_set_accession": "CS202106160_329",
       "parent_cell_set_name": "CA1-ProS",
       "parent_cell_set_accession": "subclass_label:5c6ec72876",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "329_CA1-ProS",
         "cell_set_designation": "CTX-HPF 329",
@@ -6616,7 +6616,7 @@
       "cell_set_accession": "CS202106160_60",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "60_Vip Igfbp6",
         "cell_set_designation": "CTX-HPF 060",
@@ -6634,7 +6634,7 @@
       "cell_set_accession": "CS202106160_9",
       "parent_cell_set_name": "Lamp5",
       "parent_cell_set_accession": "subclass_label:e40986e2c0",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "9_Lamp5 Lhx6",
         "cell_set_designation": "CTX-HPF 009",
@@ -6652,7 +6652,7 @@
       "cell_set_accession": "CS202106160_308",
       "parent_cell_set_name": "L6b CTX",
       "parent_cell_set_accession": "subclass_label:8fb647662f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "308_L6b RHP",
         "cell_set_designation": "CTX-HPF 308",
@@ -6670,7 +6670,7 @@
       "cell_set_accession": "CS202106160_67",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "67_Sst",
         "cell_set_designation": "CTX-HPF 067",
@@ -6688,7 +6688,7 @@
       "cell_set_accession": "CS202106160_285",
       "parent_cell_set_name": "L6 CT CTX",
       "parent_cell_set_accession": "CS202106160_548",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "285_L6 CT CTX",
         "cell_set_designation": "CTX-HPF 285",
@@ -6706,7 +6706,7 @@
       "cell_set_accession": "CS202106160_253",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "253_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 253",
@@ -6724,7 +6724,7 @@
       "cell_set_accession": "CS202106160_312",
       "parent_cell_set_name": "L6b CTX",
       "parent_cell_set_accession": "subclass_label:8fb647662f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "312_L6b CTX",
         "cell_set_designation": "CTX-HPF 312",
@@ -6742,7 +6742,7 @@
       "cell_set_accession": "CS202106160_55",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "55_Vip HPF",
         "cell_set_designation": "CTX-HPF 055",
@@ -6760,7 +6760,7 @@
       "cell_set_accession": "CS202106160_33",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "33_Sncg",
         "cell_set_designation": "CTX-HPF 033",
@@ -6778,7 +6778,7 @@
       "cell_set_accession": "CS202106160_16",
       "parent_cell_set_name": "Lamp5",
       "parent_cell_set_accession": "subclass_label:e40986e2c0",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "16_Lamp5",
         "cell_set_designation": "CTX-HPF 016",
@@ -6796,7 +6796,7 @@
       "cell_set_accession": "CS202106160_259",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "259_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 259",
@@ -6814,7 +6814,7 @@
       "cell_set_accession": "CS202106160_190",
       "parent_cell_set_name": "L4/5 IT CTX",
       "parent_cell_set_accession": "subclass_label:40ec201664",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "190_L4/5 IT CTX",
         "cell_set_designation": "CTX-HPF 190",
@@ -6832,7 +6832,7 @@
       "cell_set_accession": "CS202106160_357",
       "parent_cell_set_name": "CA3",
       "parent_cell_set_accession": "CS202106160_578",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "357_CA3-do",
         "cell_set_designation": "CTX-HPF 357",
@@ -6850,7 +6850,7 @@
       "cell_set_accession": "CS202106160_61",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "61_Vip Igfbp6",
         "cell_set_designation": "CTX-HPF 061",
@@ -6868,7 +6868,7 @@
       "cell_set_accession": "CS202106160_26",
       "parent_cell_set_name": "Sncg",
       "parent_cell_set_accession": "subclass_label:86d5f48b05",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "26_Ntng1 HPF",
         "cell_set_designation": "CTX-HPF 026",
@@ -6886,7 +6886,7 @@
       "cell_set_accession": "CS202106160_87",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "87_Sst",
         "cell_set_designation": "CTX-HPF 087",
@@ -6904,7 +6904,7 @@
       "cell_set_accession": "CS202106160_171",
       "parent_cell_set_name": "L2/3 IT CTX",
       "parent_cell_set_accession": "CS202106160_494",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "171_L2/3 IT CTX",
         "cell_set_designation": "CTX-HPF 171",
@@ -6922,7 +6922,7 @@
       "cell_set_accession": "CS202106160_249",
       "parent_cell_set_name": "L5 PT CTX",
       "parent_cell_set_accession": "CS202106160_528",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "249_L5 PT CTX",
         "cell_set_designation": "CTX-HPF 249",
@@ -6940,7 +6940,7 @@
       "cell_set_accession": "CS202106160_78",
       "parent_cell_set_name": "Sst",
       "parent_cell_set_accession": "CS202106160_444",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "78_Sst HPF",
         "cell_set_designation": "CTX-HPF 078",
@@ -6958,7 +6958,7 @@
       "cell_set_accession": "CS202106160_50",
       "parent_cell_set_name": "Vip",
       "parent_cell_set_accession": "subclass_label:a547e761cb",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "50_Vip",
         "cell_set_designation": "CTX-HPF 050",
@@ -6978,7 +6978,7 @@
       "cell_ontology_term": "hippocampal neuron",
       "parent_cell_set_name": "Glutamatergic",
       "parent_cell_set_accession": "class_label:de8ed2ce0f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n197",
         "cell_set_designation": "CTX-HPF 359-360",
@@ -7008,7 +7008,7 @@
       "cell_ontology_term": "L5/6 near-projecting glutamatergic neuron of the primary motor cortex",
       "parent_cell_set_name": "Glutamatergic",
       "parent_cell_set_accession": "class_label:de8ed2ce0f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n150",
         "cell_set_designation": "CTX-HPF 264-270",
@@ -7038,7 +7038,7 @@
       "cell_ontology_term": "hippocampal neuron",
       "parent_cell_set_name": "Glutamatergic",
       "parent_cell_set_accession": "class_label:de8ed2ce0f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n190",
         "cell_set_designation": "CTX-HPF 349-358",
@@ -7058,7 +7058,7 @@
       "cell_ontology_term": "cortical interneuron",
       "parent_cell_set_name": "Glutamatergic",
       "parent_cell_set_accession": "class_label:de8ed2ce0f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n163",
         "cell_set_designation": "CTX-HPF 294-297",
@@ -7098,7 +7098,7 @@
       "cell_ontology_term": "L2/3 intratelencephalic projecting glutamatergic neuron of the primary motor cortex",
       "parent_cell_set_name": "Glutamatergic",
       "parent_cell_set_accession": "class_label:de8ed2ce0f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n92",
         "cell_set_designation": "CTX-HPF 135-140",
@@ -7118,7 +7118,7 @@
       "cell_ontology_term": "sst chodl GABAergic cortical interneuron",
       "parent_cell_set_name": "GABAergic",
       "parent_cell_set_accession": "class_label:0ecf35ea0b",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n53",
         "cell_set_designation": "CTX-HPF 063-065",
@@ -7168,7 +7168,7 @@
       "cell_ontology_term": "corticothalamic-projecting glutamatergic cortical neuron",
       "parent_cell_set_name": "Glutamatergic",
       "parent_cell_set_accession": "class_label:de8ed2ce0f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n137",
         "cell_set_designation": "CTX-HPF 236-238",
@@ -7208,7 +7208,7 @@
       "cell_ontology_term": "sst GABAergic cortical interneuron",
       "parent_cell_set_name": "GABAergic",
       "parent_cell_set_accession": "class_label:0ecf35ea0b",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n56",
         "cell_set_designation": "CTX-HPF 066-107",
@@ -7228,7 +7228,7 @@
       "cell_ontology_term": "meis2 expressing cortical GABAergic cell",
       "parent_cell_set_name": "GABAergic",
       "parent_cell_set_accession": "class_label:0ecf35ea0b",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n8",
         "cell_set_designation": "CTX-HPF 002-003",
@@ -7248,7 +7248,7 @@
       "cell_ontology_term": "L6 corticothalamic-projecting glutamatergic cortical neuron",
       "parent_cell_set_name": "Glutamatergic",
       "parent_cell_set_accession": "class_label:de8ed2ce0f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n160",
         "cell_set_designation": "CTX-HPF 278-293",
@@ -7268,7 +7268,7 @@
       "cell_ontology_term": "L2/3-6 intratelencephalic projecting glutamatergic neuron",
       "parent_cell_set_name": "Glutamatergic",
       "parent_cell_set_accession": "class_label:de8ed2ce0f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n110",
         "cell_set_designation": "CTX-HPF 172-177",
@@ -7318,7 +7318,7 @@
       "cell_ontology_term": "L5 extratelencephalic projecting glutamatergic cortical neuron",
       "parent_cell_set_name": "Glutamatergic",
       "parent_cell_set_accession": "class_label:de8ed2ce0f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n140",
         "cell_set_designation": "CTX-HPF 239-260",
@@ -7358,7 +7358,7 @@
       "cell_ontology_term": "pericyte",
       "parent_cell_set_name": "Non-Neuronal",
       "parent_cell_set_accession": "class_label:b7c6ca690a",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n216",
         "cell_set_designation": "CTX-HPF 380-382",
@@ -7388,7 +7388,7 @@
       "cell_ontology_term": "hippocampal neuron",
       "parent_cell_set_name": "Glutamatergic",
       "parent_cell_set_accession": "class_label:de8ed2ce0f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n198",
         "cell_set_designation": "CTX-HPF 361-364",
@@ -7418,7 +7418,7 @@
       "cell_ontology_term": "vascular leptomeningeal cell (Mmus)",
       "parent_cell_set_name": "Non-Neuronal",
       "parent_cell_set_accession": "class_label:b7c6ca690a",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n218",
         "cell_set_designation": "CTX-HPF 383-385",
@@ -7458,7 +7458,7 @@
       "cell_ontology_term": "L2/3-6 intratelencephalic projecting glutamatergic neuron",
       "parent_cell_set_name": "Glutamatergic",
       "parent_cell_set_accession": "class_label:de8ed2ce0f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n106",
         "cell_set_designation": "CTX-HPF 162-171",
@@ -7478,7 +7478,7 @@
       "cell_ontology_term": "pvalb GABAergic cortical interneuron",
       "parent_cell_set_name": "GABAergic",
       "parent_cell_set_accession": "class_label:0ecf35ea0b",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n75",
         "cell_set_designation": "CTX-HPF 108-123",
@@ -7498,7 +7498,7 @@
       "cell_ontology_term": "central nervous system macrophage",
       "parent_cell_set_name": "Non-Neuronal",
       "parent_cell_set_accession": "class_label:b7c6ca690a",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n220",
         "cell_set_designation": "CTX-HPF 386-388",
@@ -7518,7 +7518,7 @@
       "cell_ontology_term": "pyramidal neuron",
       "parent_cell_set_name": "Glutamatergic",
       "parent_cell_set_accession": "class_label:de8ed2ce0f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n147",
         "cell_set_designation": "CTX-HPF 261-262",
@@ -7548,7 +7548,7 @@
       "cell_ontology_term": "L5/6 near-projecting glutamatergic neuron of the primary motor cortex",
       "parent_cell_set_name": "Glutamatergic",
       "parent_cell_set_accession": "class_label:de8ed2ce0f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n156",
         "cell_set_designation": "CTX-HPF 275-277",
@@ -7568,7 +7568,7 @@
       "cell_ontology_term": "L5/6 near-projecting glutamatergic neuron of the primary motor cortex",
       "parent_cell_set_name": "Glutamatergic",
       "parent_cell_set_accession": "class_label:de8ed2ce0f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n153",
         "cell_set_designation": "CTX-HPF 271-274",
@@ -7598,7 +7598,7 @@
       "cell_ontology_term": "L2/3-6 intratelencephalic projecting glutamatergic neuron",
       "parent_cell_set_name": "Glutamatergic",
       "parent_cell_set_accession": "class_label:de8ed2ce0f",
-      "rationale_dois": "https://doi.org/10.1016/j.cell.2021.04.021",
+      "rationale_dois": ["https://doi.org/10.1016/j.cell.2021.04.021"],
       "author_annotation_fields": {
         "original_label": "n98",
         "cell_set_designation": "CTX-HPF 146-150",
