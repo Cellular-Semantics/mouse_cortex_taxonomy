@@ -540,7 +540,7 @@
         fetchAllData(table_json_url, 1000).then(function (data) {
             api_results["annotations"] = data;
         }),
-
+  
         $.getJSON(labelset_json_url, function (labelset_response) {
           labelset_data = labelset_response["result"]["rows"]
           var labelset_ranks = [];
@@ -572,13 +572,13 @@
       // clone a global variable before sorting
       table_data = data.slice()
       console.log("data length: " + data.length);
-
+  
       // filter whose labelset rank is none (non-hierarchical labelsets such as neurotransmitter)
       data = data.filter(x => labelset_ranks[x.labelset] !== null);
       // sort highest rank first but ordered by accession_id if same rank
       data.sort((a, b) => (labelset_ranks[a.labelset] > labelset_ranks[b.labelset]) ? -1 : (labelset_ranks[a.labelset] === labelset_ranks[b.labelset]) ? ((parseInt(a.cell_set_accession.split("_")[-1]) > parseInt(b.cell_set_accession.split("_"))[-1]) ? 1 : -1) : 1 );
       // data.sort((a, b) => (parseInt(a.cell_set_accession.split("_")[-1]) > parseInt(b.cell_set_accession.split("_"))[-1]) ? 1 : -1 );
-
+      
       // populate ranks
       for (index in data) {
         data[index]["rank"] = labelset_ranks[data[index]["labelset"]];
@@ -612,26 +612,26 @@
         }
         parents[parent_cell_set_accession]["nodes"].push(record_node);
       }
-
-    //   console.log("Setting up source-treeview", root_node);
+  
+      console.log("Setting up source-treeview", root_node);
       $sourceTree = $('#source-treeview').bstreeview({
         data: [root_node],
         color: "#428bca",
         levels: 5,
         showBorder: false
       });
-
+  
       $('#source-treeview').bind('mousewheel', function (e) {
         $(this).scrollTop($(this).scrollTop() - e.originalEvent.wheelDeltaY);
         return false;
       });
-
+  
       register_treeview_clicks(data);
-
+  
       // cellset search autocomplete
       configure_autocomplete("cellsetName", data);
     }); // end api call
-
+  
     function register_treeview_clicks(data) {
         $('#source-treeview').find('div').click(function (event) {
         event.stopPropagation();
@@ -645,7 +645,7 @@
         }
       });
     }
-
+  
     function configure_autocomplete(inputName, records) {
       my_obj_tokenizer = getObjTokenizer();
       // constructs the suggestion engine
@@ -656,7 +656,7 @@
         local: records
       });
       typeaheadBH.initialize();
-
+  
       $("*[name='" + inputName + "']").first().typeahead({
         hint: false,
         highlight: true,
@@ -675,7 +675,7 @@
           }
         }
       });
-
+  
       $("*[name='" + inputName + "']").first().on('typeahead:selected', function(evt, item) {
         $("*[name='" + inputName + "']").first()[0].value = item['cell_set_accession'];
         if ($sourceTree !== null) {
@@ -684,29 +684,29 @@
         }
       });
     }// end configure_autocomplete
-
+  
     // custom tokenizer that tokenizes with underscore char as well
     function getObjTokenizer() {
       return function setKey(keys) {
         keys = Array.isArray(keys) ? keys : [].slice.call(arguments, 0);
-
+  
         return function tokenize(o) {
           var tokens = [];
-
+  
           keys.forEach(function(k) {
             tokens = tokens.concat(custom_nonword_tokenizer(String(o[k])));
           });
-
+  
           return tokens;
         };
       };
     }
-
+  
     function custom_nonword_tokenizer(str) {
       str = String(str);
       return str ? str.split(/[^a-zA-Z0-9]+/) : [];
     }
-
+  
     // search node in the treeview and focus
     function treeview_focus_node(node, treeview, treeview_id) {
       if (treeview !== null) {
@@ -724,7 +724,7 @@
           register_treeview_clicks(table_data)
       }
     }
-
+  
     function display_in_info_box(node) {
       var info = "";
       info += "<p></p>";
